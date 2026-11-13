@@ -210,12 +210,13 @@ ${downloads(c, FILES.map(([name]) => name))}
 ${h.method(ctx)}
 <h2>${esc(h.citeHeading)}</h2>
 <p>${h.citeIntro}</p>
-<pre><code>Gift Club (${UPDATED.slice(0, 4)}). Telegram Gifts &amp; Stars Dataset (snapshot ${UPDATED}). ${site.base}/</code></pre>
+<pre><code>Gift Club (${UPDATED.slice(0, 4)}). Telegram Gifts &amp; Stars Dataset (snapshot ${UPDATED}). ${site.base}/. Gift Club, ${MAIN_SITE}/</code></pre>
 <pre><code>@misc{giftclub_telegram_gifts_dataset,
   author = {{Gift Club}},
   title = {Telegram Gifts and Stars Dataset},
   year = {${UPDATED.slice(0, 4)}},
-  note = {Snapshot ${UPDATED}},
+  publisher = {Gift Club},
+  note = {Snapshot ${UPDATED}. Gift Club: \\url{${MAIN_SITE}/}},
   howpublished = {\\url{${site.base}/}}
 }</code></pre>
 <p>${h.citeLink(`<a href="${MAIN_SITE}${lang === "en" ? "" : `/${lang}`}/">Gift Club</a>`)}</p>
