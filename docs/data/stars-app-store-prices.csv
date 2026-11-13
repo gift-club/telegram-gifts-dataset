@@ -1,0 +1,125 @@
+store,country,currency,stars,price,price_per_star,checked,source
+br,Brazil,BRL,100,12.9,0.129,2026-10-15,https://apps.apple.com/br/app/telegram-messenger/id686449807
+br,Brazil,BRL,150,18.99,0.1266,2026-10-15,https://apps.apple.com/br/app/telegram-messenger/id686449807
+br,Brazil,BRL,250,31.99,0.12796,2026-10-15,https://apps.apple.com/br/app/telegram-messenger/id686449807
+br,Brazil,BRL,350,44.5,0.127143,2026-10-15,https://apps.apple.com/br/app/telegram-messenger/id686449807
+br,Brazil,BRL,500,64.9,0.1298,2026-10-15,https://apps.apple.com/br/app/telegram-messenger/id686449807
+br,Brazil,BRL,750,94.99,0.126653,2026-10-15,https://apps.apple.com/br/app/telegram-messenger/id686449807
+br,Brazil,BRL,1000,127.9,0.1279,2026-10-15,https://apps.apple.com/br/app/telegram-messenger/id686449807
+dk,Denmark,DKK,100,17,0.17,2026-10-30,https://apps.apple.com/dk/app/telegram-messenger/id686449807
+dk,Denmark,DKK,150,25,0.166667,2026-10-30,https://apps.apple.com/dk/app/telegram-messenger/id686449807
+dk,Denmark,DKK,250,42,0.168,2026-10-30,https://apps.apple.com/dk/app/telegram-messenger/id686449807
+dk,Denmark,DKK,350,58,0.165714,2026-10-30,https://apps.apple.com/dk/app/telegram-messenger/id686449807
+dk,Denmark,DKK,500,83,0.166,2026-10-30,https://apps.apple.com/dk/app/telegram-messenger/id686449807
+dk,Denmark,DKK,750,125,0.166667,2026-10-30,https://apps.apple.com/dk/app/telegram-messenger/id686449807
+dk,Denmark,DKK,1000,169,0.169,2026-10-30,https://apps.apple.com/dk/app/telegram-messenger/id686449807
+dk,Denmark,DKK,2500,415,0.166,2026-10-30,https://apps.apple.com/dk/app/telegram-messenger/id686449807
+fi,Finland,EUR,100,2.19,0.0219,2026-10-30,https://apps.apple.com/fi/app/telegram-messenger/id686449807
+fi,Finland,EUR,150,3.29,0.021933,2026-10-30,https://apps.apple.com/fi/app/telegram-messenger/id686449807
+fi,Finland,EUR,250,5.49,0.02196,2026-10-30,https://apps.apple.com/fi/app/telegram-messenger/id686449807
+fi,Finland,EUR,350,7.69,0.021971,2026-10-30,https://apps.apple.com/fi/app/telegram-messenger/id686449807
+fi,Finland,EUR,500,10.99,0.02198,2026-10-30,https://apps.apple.com/fi/app/telegram-messenger/id686449807
+fi,Finland,EUR,750,16.49,0.021987,2026-10-30,https://apps.apple.com/fi/app/telegram-messenger/id686449807
+fi,Finland,EUR,1000,21.99,0.02199,2026-10-30,https://apps.apple.com/fi/app/telegram-messenger/id686449807
+fr,France,EUR,100,2.19,0.0219,2026-10-30,https://apps.apple.com/fr/app/telegram-messenger/id686449807
+fr,France,EUR,150,3.19,0.021267,2026-10-30,https://apps.apple.com/fr/app/telegram-messenger/id686449807
+fr,France,EUR,250,5.39,0.02156,2026-10-30,https://apps.apple.com/fr/app/telegram-messenger/id686449807
+fr,France,EUR,350,7.49,0.0214,2026-10-30,https://apps.apple.com/fr/app/telegram-messenger/id686449807
+fr,France,EUR,500,10.9,0.0218,2026-10-30,https://apps.apple.com/fr/app/telegram-messenger/id686449807
+fr,France,EUR,750,15.99,0.02132,2026-10-30,https://apps.apple.com/fr/app/telegram-messenger/id686449807
+fr,France,EUR,1000,21.49,0.02149,2026-10-30,https://apps.apple.com/fr/app/telegram-messenger/id686449807
+fr,France,EUR,2500,53.9,0.02156,2026-10-30,https://apps.apple.com/fr/app/telegram-messenger/id686449807
+de,Germany,EUR,100,2.09,0.0209,2026-10-30,https://apps.apple.com/de/app/telegram-messenger/id686449807
+de,Germany,EUR,150,3.19,0.021267,2026-10-30,https://apps.apple.com/de/app/telegram-messenger/id686449807
+de,Germany,EUR,250,5.29,0.02116,2026-10-30,https://apps.apple.com/de/app/telegram-messenger/id686449807
+de,Germany,EUR,350,7.39,0.021114,2026-10-30,https://apps.apple.com/de/app/telegram-messenger/id686449807
+de,Germany,EUR,500,10.9,0.0218,2026-10-30,https://apps.apple.com/de/app/telegram-messenger/id686449807
+de,Germany,EUR,750,15.99,0.02132,2026-10-30,https://apps.apple.com/de/app/telegram-messenger/id686449807
+de,Germany,EUR,1000,20.99,0.02099,2026-10-30,https://apps.apple.com/de/app/telegram-messenger/id686449807
+de,Germany,EUR,2500,52.99,0.021196,2026-10-30,https://apps.apple.com/de/app/telegram-messenger/id686449807
+in,India,INR,100,205,2.05,2026-10-15,https://apps.apple.com/in/app/telegram-messenger/id686449807
+in,India,INR,150,305,2.033333,2026-10-15,https://apps.apple.com/in/app/telegram-messenger/id686449807
+in,India,INR,250,509,2.036,2026-10-15,https://apps.apple.com/in/app/telegram-messenger/id686449807
+in,India,INR,350,709,2.025714,2026-10-15,https://apps.apple.com/in/app/telegram-messenger/id686449807
+in,India,INR,500,1019,2.038,2026-10-15,https://apps.apple.com/in/app/telegram-messenger/id686449807
+in,India,INR,750,1549,2.065333,2026-10-15,https://apps.apple.com/in/app/telegram-messenger/id686449807
+in,India,INR,1000,2049,2.049,2026-10-15,https://apps.apple.com/in/app/telegram-messenger/id686449807
+id,Indonesia,IDR,100,37500,375,2026-10-15,https://apps.apple.com/id/app/telegram-messenger/id686449807
+id,Indonesia,IDR,150,56000,373.333333,2026-10-15,https://apps.apple.com/id/app/telegram-messenger/id686449807
+id,Indonesia,IDR,250,94000,376,2026-10-15,https://apps.apple.com/id/app/telegram-messenger/id686449807
+id,Indonesia,IDR,500,187000,374,2026-10-15,https://apps.apple.com/id/app/telegram-messenger/id686449807
+id,Indonesia,IDR,750,280000,373.333333,2026-10-15,https://apps.apple.com/id/app/telegram-messenger/id686449807
+id,Indonesia,IDR,1000,375000,375,2026-10-15,https://apps.apple.com/id/app/telegram-messenger/id686449807
+it,Italy,EUR,100,2.19,0.0219,2026-10-19,https://apps.apple.com/it/app/telegram-messenger/id686449807
+it,Italy,EUR,150,3.29,0.021933,2026-10-19,https://apps.apple.com/it/app/telegram-messenger/id686449807
+it,Italy,EUR,250,5.39,0.02156,2026-10-19,https://apps.apple.com/it/app/telegram-messenger/id686449807
+it,Italy,EUR,350,7.59,0.021686,2026-10-19,https://apps.apple.com/it/app/telegram-messenger/id686449807
+it,Italy,EUR,500,10.9,0.0218,2026-10-19,https://apps.apple.com/it/app/telegram-messenger/id686449807
+it,Italy,EUR,750,16.49,0.021987,2026-10-19,https://apps.apple.com/it/app/telegram-messenger/id686449807
+it,Italy,EUR,1000,21.9,0.0219,2026-10-19,https://apps.apple.com/it/app/telegram-messenger/id686449807
+kz,Kazakhstan,KZT,100,1190,11.9,2026-10-30,https://apps.apple.com/kz/app/telegram-messenger/id686449807
+kz,Kazakhstan,KZT,150,1750,11.666667,2026-10-30,https://apps.apple.com/kz/app/telegram-messenger/id686449807
+kz,Kazakhstan,KZT,250,2900,11.6,2026-10-30,https://apps.apple.com/kz/app/telegram-messenger/id686449807
+kz,Kazakhstan,KZT,350,4100,11.714286,2026-10-30,https://apps.apple.com/kz/app/telegram-messenger/id686449807
+kz,Kazakhstan,KZT,500,5890,11.78,2026-10-30,https://apps.apple.com/kz/app/telegram-messenger/id686449807
+kz,Kazakhstan,KZT,1000,11790,11.79,2026-10-30,https://apps.apple.com/kz/app/telegram-messenger/id686449807
+mx,Mexico,MXN,100,48,0.48,2026-10-15,https://apps.apple.com/mx/app/telegram-messenger/id686449807
+mx,Mexico,MXN,150,73,0.486667,2026-10-15,https://apps.apple.com/mx/app/telegram-messenger/id686449807
+mx,Mexico,MXN,250,119,0.476,2026-10-15,https://apps.apple.com/mx/app/telegram-messenger/id686449807
+mx,Mexico,MXN,350,169,0.482857,2026-10-15,https://apps.apple.com/mx/app/telegram-messenger/id686449807
+mx,Mexico,MXN,500,239,0.478,2026-10-15,https://apps.apple.com/mx/app/telegram-messenger/id686449807
+mx,Mexico,MXN,750,359,0.478667,2026-10-15,https://apps.apple.com/mx/app/telegram-messenger/id686449807
+mx,Mexico,MXN,1000,479,0.479,2026-10-15,https://apps.apple.com/mx/app/telegram-messenger/id686449807
+no,Norway,NOK,100,27,0.27,2026-10-30,https://apps.apple.com/no/app/telegram-messenger/id686449807
+no,Norway,NOK,150,40,0.266667,2026-10-30,https://apps.apple.com/no/app/telegram-messenger/id686449807
+no,Norway,NOK,250,67,0.268,2026-10-30,https://apps.apple.com/no/app/telegram-messenger/id686449807
+no,Norway,NOK,350,94,0.268571,2026-10-30,https://apps.apple.com/no/app/telegram-messenger/id686449807
+no,Norway,NOK,500,135,0.27,2026-10-30,https://apps.apple.com/no/app/telegram-messenger/id686449807
+no,Norway,NOK,750,199,0.265333,2026-10-30,https://apps.apple.com/no/app/telegram-messenger/id686449807
+no,Norway,NOK,1000,269,0.269,2026-10-30,https://apps.apple.com/no/app/telegram-messenger/id686449807
+no,Norway,NOK,2500,669,0.2676,2026-10-30,https://apps.apple.com/no/app/telegram-messenger/id686449807
+pl,Poland,PLN,100,9.49,0.0949,2026-10-15,https://apps.apple.com/pl/app/telegram-messenger/id686449807
+pl,Poland,PLN,150,13.99,0.093267,2026-10-15,https://apps.apple.com/pl/app/telegram-messenger/id686449807
+pl,Poland,PLN,250,23.49,0.09396,2026-10-15,https://apps.apple.com/pl/app/telegram-messenger/id686449807
+pl,Poland,PLN,500,46.99,0.09398,2026-10-15,https://apps.apple.com/pl/app/telegram-messenger/id686449807
+pl,Poland,PLN,750,70.99,0.094653,2026-10-15,https://apps.apple.com/pl/app/telegram-messenger/id686449807
+pl,Poland,PLN,1000,93.99,0.09399,2026-10-15,https://apps.apple.com/pl/app/telegram-messenger/id686449807
+ru,russia,RUB,100,209,2.09,2026-10-15,https://apps.apple.com/ru/app/telegram-messenger/id686449807
+ru,russia,RUB,150,319,2.126667,2026-10-15,https://apps.apple.com/ru/app/telegram-messenger/id686449807
+ru,russia,RUB,250,529,2.116,2026-10-15,https://apps.apple.com/ru/app/telegram-messenger/id686449807
+ru,russia,RUB,500,1060,2.12,2026-10-15,https://apps.apple.com/ru/app/telegram-messenger/id686449807
+sa,Saudi Arabia,SAR,100,8.99,0.0899,2026-10-30,https://apps.apple.com/sa/app/telegram-messenger/id686449807
+sa,Saudi Arabia,SAR,150,12.99,0.0866,2026-10-30,https://apps.apple.com/sa/app/telegram-messenger/id686449807
+sa,Saudi Arabia,SAR,250,21.99,0.08796,2026-10-30,https://apps.apple.com/sa/app/telegram-messenger/id686449807
+sa,Saudi Arabia,SAR,350,30.49,0.087114,2026-10-30,https://apps.apple.com/sa/app/telegram-messenger/id686449807
+sa,Saudi Arabia,SAR,500,43.49,0.08698,2026-10-30,https://apps.apple.com/sa/app/telegram-messenger/id686449807
+sa,Saudi Arabia,SAR,1000,86.99,0.08699,2026-10-30,https://apps.apple.com/sa/app/telegram-messenger/id686449807
+sa,Saudi Arabia,SAR,1500,129,0.086,2026-10-30,https://apps.apple.com/sa/app/telegram-messenger/id686449807
+sa,Saudi Arabia,SAR,2500,219,0.0876,2026-10-30,https://apps.apple.com/sa/app/telegram-messenger/id686449807
+es,Spain,EUR,100,2.19,0.0219,2026-10-15,https://apps.apple.com/es/app/telegram-messenger/id686449807
+es,Spain,EUR,150,3.19,0.021267,2026-10-15,https://apps.apple.com/es/app/telegram-messenger/id686449807
+es,Spain,EUR,250,5.39,0.02156,2026-10-15,https://apps.apple.com/es/app/telegram-messenger/id686449807
+es,Spain,EUR,350,7.59,0.021686,2026-10-15,https://apps.apple.com/es/app/telegram-messenger/id686449807
+es,Spain,EUR,500,10.9,0.0218,2026-10-15,https://apps.apple.com/es/app/telegram-messenger/id686449807
+es,Spain,EUR,750,15.99,0.02132,2026-10-15,https://apps.apple.com/es/app/telegram-messenger/id686449807
+es,Spain,EUR,1000,21.49,0.02149,2026-10-15,https://apps.apple.com/es/app/telegram-messenger/id686449807
+se,Sweden,SEK,100,25,0.25,2026-10-30,https://apps.apple.com/se/app/telegram-messenger/id686449807
+se,Sweden,SEK,250,62,0.248,2026-10-30,https://apps.apple.com/se/app/telegram-messenger/id686449807
+se,Sweden,SEK,500,125,0.25,2026-10-30,https://apps.apple.com/se/app/telegram-messenger/id686449807
+se,Sweden,SEK,750,189,0.252,2026-10-30,https://apps.apple.com/se/app/telegram-messenger/id686449807
+se,Sweden,SEK,1000,249,0.249,2026-10-30,https://apps.apple.com/se/app/telegram-messenger/id686449807
+se,Sweden,SEK,2500,619,0.2476,2026-10-30,https://apps.apple.com/se/app/telegram-messenger/id686449807
+tr,Türkiye,TRY,100,99.99,0.9999,2026-10-15,https://apps.apple.com/tr/app/telegram-messenger/id686449807
+tr,Türkiye,TRY,150,149,0.993333,2026-10-15,https://apps.apple.com/tr/app/telegram-messenger/id686449807
+tr,Türkiye,TRY,250,249,0.996,2026-10-15,https://apps.apple.com/tr/app/telegram-messenger/id686449807
+tr,Türkiye,TRY,350,349,0.997143,2026-10-15,https://apps.apple.com/tr/app/telegram-messenger/id686449807
+tr,Türkiye,TRY,500,499,0.998,2026-10-15,https://apps.apple.com/tr/app/telegram-messenger/id686449807
+tr,Türkiye,TRY,750,749,0.998667,2026-10-15,https://apps.apple.com/tr/app/telegram-messenger/id686449807
+tr,Türkiye,TRY,1000,999,0.999,2026-10-15,https://apps.apple.com/tr/app/telegram-messenger/id686449807
+us,United States,USD,100,1.99,0.0199,2026-10-14,https://apps.apple.com/us/app/telegram-messenger/id686449807
+us,United States,USD,250,5.09,0.02036,2026-10-14,https://apps.apple.com/us/app/telegram-messenger/id686449807
+us,United States,USD,500,9.99,0.01998,2026-10-14,https://apps.apple.com/us/app/telegram-messenger/id686449807
+us,United States,USD,750,14.99,0.019987,2026-10-14,https://apps.apple.com/us/app/telegram-messenger/id686449807
+us,United States,USD,1000,19.99,0.01999,2026-10-14,https://apps.apple.com/us/app/telegram-messenger/id686449807
+us,United States,USD,1500,29.99,0.019993,2026-10-14,https://apps.apple.com/us/app/telegram-messenger/id686449807
+us,United States,USD,2500,50.9,0.02036,2026-10-14,https://apps.apple.com/us/app/telegram-messenger/id686449807

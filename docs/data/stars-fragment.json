@@ -1,0 +1,14 @@
+{
+  "fragment": {
+    "usd_per_star": 0.015,
+    "min_stars": 50,
+    "checked": "2026-10-14",
+    "source": "https://fragment.com/stars/buy"
+  },
+  "creator_payout": {
+    "usd_per_star": 0.013,
+    "checked": "2026-10-02",
+    "source": "https://telegram.org/tos/content-creator-rewards",
+    "note": "What a Star earned by a channel or bot pays out when withdrawn through Fragment. Bought Stars never withdraw."
+  }
+}

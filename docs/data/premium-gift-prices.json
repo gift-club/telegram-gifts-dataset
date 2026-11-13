@@ -1,0 +1,29 @@
+[
+  {
+    "months": 3,
+    "fragment_usd": 11.99,
+    "fragment_gram": 9.62,
+    "telegram_stars": 1000,
+    "checked": "2026-10-28",
+    "fragment_source": "https://fragment.com/premium/gift",
+    "stars_source": "https://core.telegram.org/bots/api#giftpremiumsubscription"
+  },
+  {
+    "months": 6,
+    "fragment_usd": 15.99,
+    "fragment_gram": 12.84,
+    "telegram_stars": 1500,
+    "checked": "2026-10-28",
+    "fragment_source": "https://fragment.com/premium/gift",
+    "stars_source": "https://core.telegram.org/bots/api#giftpremiumsubscription"
+  },
+  {
+    "months": 12,
+    "fragment_usd": 28.99,
+    "fragment_gram": 23.28,
+    "telegram_stars": 2500,
+    "checked": "2026-10-28",
+    "fragment_source": "https://fragment.com/premium/gift",
+    "stars_source": "https://core.telegram.org/bots/api#giftpremiumsubscription"
+  }
+]

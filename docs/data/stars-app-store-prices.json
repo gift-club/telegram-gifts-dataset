@@ -1,0 +1,1242 @@
+[
+  {
+    "store": "br",
+    "country": "Brazil",
+    "currency": "BRL",
+    "stars": 100,
+    "price": 12.9,
+    "price_per_star": 0.129,
+    "checked": "2026-10-15",
+    "source": "https://apps.apple.com/br/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "br",
+    "country": "Brazil",
+    "currency": "BRL",
+    "stars": 150,
+    "price": 18.99,
+    "price_per_star": 0.1266,
+    "checked": "2026-10-15",
+    "source": "https://apps.apple.com/br/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "br",
+    "country": "Brazil",
+    "currency": "BRL",
+    "stars": 250,
+    "price": 31.99,
+    "price_per_star": 0.12796,
+    "checked": "2026-10-15",
+    "source": "https://apps.apple.com/br/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "br",
+    "country": "Brazil",
+    "currency": "BRL",
+    "stars": 350,
+    "price": 44.5,
+    "price_per_star": 0.127143,
+    "checked": "2026-10-15",
+    "source": "https://apps.apple.com/br/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "br",
+    "country": "Brazil",
+    "currency": "BRL",
+    "stars": 500,
+    "price": 64.9,
+    "price_per_star": 0.1298,
+    "checked": "2026-10-15",
+    "source": "https://apps.apple.com/br/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "br",
+    "country": "Brazil",
+    "currency": "BRL",
+    "stars": 750,
+    "price": 94.99,
+    "price_per_star": 0.126653,
+    "checked": "2026-10-15",
+    "source": "https://apps.apple.com/br/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "br",
+    "country": "Brazil",
+    "currency": "BRL",
+    "stars": 1000,
+    "price": 127.9,
+    "price_per_star": 0.1279,
+    "checked": "2026-10-15",
+    "source": "https://apps.apple.com/br/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "dk",
+    "country": "Denmark",
+    "currency": "DKK",
+    "stars": 100,
+    "price": 17,
+    "price_per_star": 0.17,
+    "checked": "2026-10-30",
+    "source": "https://apps.apple.com/dk/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "dk",
+    "country": "Denmark",
+    "currency": "DKK",
+    "stars": 150,
+    "price": 25,
+    "price_per_star": 0.166667,
+    "checked": "2026-10-30",
+    "source": "https://apps.apple.com/dk/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "dk",
+    "country": "Denmark",
+    "currency": "DKK",
+    "stars": 250,
+    "price": 42,
+    "price_per_star": 0.168,
+    "checked": "2026-10-30",
+    "source": "https://apps.apple.com/dk/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "dk",
+    "country": "Denmark",
+    "currency": "DKK",
+    "stars": 350,
+    "price": 58,
+    "price_per_star": 0.165714,
+    "checked": "2026-10-30",
+    "source": "https://apps.apple.com/dk/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "dk",
+    "country": "Denmark",
+    "currency": "DKK",
+    "stars": 500,
+    "price": 83,
+    "price_per_star": 0.166,
+    "checked": "2026-10-30",
+    "source": "https://apps.apple.com/dk/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "dk",
+    "country": "Denmark",
+    "currency": "DKK",
+    "stars": 750,
+    "price": 125,
+    "price_per_star": 0.166667,
+    "checked": "2026-10-30",
+    "source": "https://apps.apple.com/dk/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "dk",
+    "country": "Denmark",
+    "currency": "DKK",
+    "stars": 1000,
+    "price": 169,
+    "price_per_star": 0.169,
+    "checked": "2026-10-30",
+    "source": "https://apps.apple.com/dk/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "dk",
+    "country": "Denmark",
+    "currency": "DKK",
+    "stars": 2500,
+    "price": 415,
+    "price_per_star": 0.166,
+    "checked": "2026-10-30",
+    "source": "https://apps.apple.com/dk/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "fi",
+    "country": "Finland",
+    "currency": "EUR",
+    "stars": 100,
+    "price": 2.19,
+    "price_per_star": 0.0219,
+    "checked": "2026-10-30",
+    "source": "https://apps.apple.com/fi/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "fi",
+    "country": "Finland",
+    "currency": "EUR",
+    "stars": 150,
+    "price": 3.29,
+    "price_per_star": 0.021933,
+    "checked": "2026-10-30",
+    "source": "https://apps.apple.com/fi/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "fi",
+    "country": "Finland",
+    "currency": "EUR",
+    "stars": 250,
+    "price": 5.49,
+    "price_per_star": 0.02196,
+    "checked": "2026-10-30",
+    "source": "https://apps.apple.com/fi/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "fi",
+    "country": "Finland",
+    "currency": "EUR",
+    "stars": 350,
+    "price": 7.69,
+    "price_per_star": 0.021971,
+    "checked": "2026-10-30",
+    "source": "https://apps.apple.com/fi/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "fi",
+    "country": "Finland",
+    "currency": "EUR",
+    "stars": 500,
+    "price": 10.99,
+    "price_per_star": 0.02198,
+    "checked": "2026-10-30",
+    "source": "https://apps.apple.com/fi/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "fi",
+    "country": "Finland",
+    "currency": "EUR",
+    "stars": 750,
+    "price": 16.49,
+    "price_per_star": 0.021987,
+    "checked": "2026-10-30",
+    "source": "https://apps.apple.com/fi/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "fi",
+    "country": "Finland",
+    "currency": "EUR",
+    "stars": 1000,
+    "price": 21.99,
+    "price_per_star": 0.02199,
+    "checked": "2026-10-30",
+    "source": "https://apps.apple.com/fi/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "fr",
+    "country": "France",
+    "currency": "EUR",
+    "stars": 100,
+    "price": 2.19,
+    "price_per_star": 0.0219,
+    "checked": "2026-10-30",
+    "source": "https://apps.apple.com/fr/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "fr",
+    "country": "France",
+    "currency": "EUR",
+    "stars": 150,
+    "price": 3.19,
+    "price_per_star": 0.021267,
+    "checked": "2026-10-30",
+    "source": "https://apps.apple.com/fr/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "fr",
+    "country": "France",
+    "currency": "EUR",
+    "stars": 250,
+    "price": 5.39,
+    "price_per_star": 0.02156,
+    "checked": "2026-10-30",
+    "source": "https://apps.apple.com/fr/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "fr",
+    "country": "France",
+    "currency": "EUR",
+    "stars": 350,
+    "price": 7.49,
+    "price_per_star": 0.0214,
+    "checked": "2026-10-30",
+    "source": "https://apps.apple.com/fr/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "fr",
+    "country": "France",
+    "currency": "EUR",
+    "stars": 500,
+    "price": 10.9,
+    "price_per_star": 0.0218,
+    "checked": "2026-10-30",
+    "source": "https://apps.apple.com/fr/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "fr",
+    "country": "France",
+    "currency": "EUR",
+    "stars": 750,
+    "price": 15.99,
+    "price_per_star": 0.02132,
+    "checked": "2026-10-30",
+    "source": "https://apps.apple.com/fr/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "fr",
+    "country": "France",
+    "currency": "EUR",
+    "stars": 1000,
+    "price": 21.49,
+    "price_per_star": 0.02149,
+    "checked": "2026-10-30",
+    "source": "https://apps.apple.com/fr/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "fr",
+    "country": "France",
+    "currency": "EUR",
+    "stars": 2500,
+    "price": 53.9,
+    "price_per_star": 0.02156,
+    "checked": "2026-10-30",
+    "source": "https://apps.apple.com/fr/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "de",
+    "country": "Germany",
+    "currency": "EUR",
+    "stars": 100,
+    "price": 2.09,
+    "price_per_star": 0.0209,
+    "checked": "2026-10-30",
+    "source": "https://apps.apple.com/de/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "de",
+    "country": "Germany",
+    "currency": "EUR",
+    "stars": 150,
+    "price": 3.19,
+    "price_per_star": 0.021267,
+    "checked": "2026-10-30",
+    "source": "https://apps.apple.com/de/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "de",
+    "country": "Germany",
+    "currency": "EUR",
+    "stars": 250,
+    "price": 5.29,
+    "price_per_star": 0.02116,
+    "checked": "2026-10-30",
+    "source": "https://apps.apple.com/de/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "de",
+    "country": "Germany",
+    "currency": "EUR",
+    "stars": 350,
+    "price": 7.39,
+    "price_per_star": 0.021114,
+    "checked": "2026-10-30",
+    "source": "https://apps.apple.com/de/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "de",
+    "country": "Germany",
+    "currency": "EUR",
+    "stars": 500,
+    "price": 10.9,
+    "price_per_star": 0.0218,
+    "checked": "2026-10-30",
+    "source": "https://apps.apple.com/de/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "de",
+    "country": "Germany",
+    "currency": "EUR",
+    "stars": 750,
+    "price": 15.99,
+    "price_per_star": 0.02132,
+    "checked": "2026-10-30",
+    "source": "https://apps.apple.com/de/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "de",
+    "country": "Germany",
+    "currency": "EUR",
+    "stars": 1000,
+    "price": 20.99,
+    "price_per_star": 0.02099,
+    "checked": "2026-10-30",
+    "source": "https://apps.apple.com/de/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "de",
+    "country": "Germany",
+    "currency": "EUR",
+    "stars": 2500,
+    "price": 52.99,
+    "price_per_star": 0.021196,
+    "checked": "2026-10-30",
+    "source": "https://apps.apple.com/de/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "in",
+    "country": "India",
+    "currency": "INR",
+    "stars": 100,
+    "price": 205,
+    "price_per_star": 2.05,
+    "checked": "2026-10-15",
+    "source": "https://apps.apple.com/in/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "in",
+    "country": "India",
+    "currency": "INR",
+    "stars": 150,
+    "price": 305,
+    "price_per_star": 2.033333,
+    "checked": "2026-10-15",
+    "source": "https://apps.apple.com/in/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "in",
+    "country": "India",
+    "currency": "INR",
+    "stars": 250,
+    "price": 509,
+    "price_per_star": 2.036,
+    "checked": "2026-10-15",
+    "source": "https://apps.apple.com/in/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "in",
+    "country": "India",
+    "currency": "INR",
+    "stars": 350,
+    "price": 709,
+    "price_per_star": 2.025714,
+    "checked": "2026-10-15",
+    "source": "https://apps.apple.com/in/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "in",
+    "country": "India",
+    "currency": "INR",
+    "stars": 500,
+    "price": 1019,
+    "price_per_star": 2.038,
+    "checked": "2026-10-15",
+    "source": "https://apps.apple.com/in/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "in",
+    "country": "India",
+    "currency": "INR",
+    "stars": 750,
+    "price": 1549,
+    "price_per_star": 2.065333,
+    "checked": "2026-10-15",
+    "source": "https://apps.apple.com/in/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "in",
+    "country": "India",
+    "currency": "INR",
+    "stars": 1000,
+    "price": 2049,
+    "price_per_star": 2.049,
+    "checked": "2026-10-15",
+    "source": "https://apps.apple.com/in/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "id",
+    "country": "Indonesia",
+    "currency": "IDR",
+    "stars": 100,
+    "price": 37500,
+    "price_per_star": 375,
+    "checked": "2026-10-15",
+    "source": "https://apps.apple.com/id/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "id",
+    "country": "Indonesia",
+    "currency": "IDR",
+    "stars": 150,
+    "price": 56000,
+    "price_per_star": 373.333333,
+    "checked": "2026-10-15",
+    "source": "https://apps.apple.com/id/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "id",
+    "country": "Indonesia",
+    "currency": "IDR",
+    "stars": 250,
+    "price": 94000,
+    "price_per_star": 376,
+    "checked": "2026-10-15",
+    "source": "https://apps.apple.com/id/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "id",
+    "country": "Indonesia",
+    "currency": "IDR",
+    "stars": 500,
+    "price": 187000,
+    "price_per_star": 374,
+    "checked": "2026-10-15",
+    "source": "https://apps.apple.com/id/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "id",
+    "country": "Indonesia",
+    "currency": "IDR",
+    "stars": 750,
+    "price": 280000,
+    "price_per_star": 373.333333,
+    "checked": "2026-10-15",
+    "source": "https://apps.apple.com/id/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "id",
+    "country": "Indonesia",
+    "currency": "IDR",
+    "stars": 1000,
+    "price": 375000,
+    "price_per_star": 375,
+    "checked": "2026-10-15",
+    "source": "https://apps.apple.com/id/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "it",
+    "country": "Italy",
+    "currency": "EUR",
+    "stars": 100,
+    "price": 2.19,
+    "price_per_star": 0.0219,
+    "checked": "2026-10-19",
+    "source": "https://apps.apple.com/it/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "it",
+    "country": "Italy",
+    "currency": "EUR",
+    "stars": 150,
+    "price": 3.29,
+    "price_per_star": 0.021933,
+    "checked": "2026-10-19",
+    "source": "https://apps.apple.com/it/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "it",
+    "country": "Italy",
+    "currency": "EUR",
+    "stars": 250,
+    "price": 5.39,
+    "price_per_star": 0.02156,
+    "checked": "2026-10-19",
+    "source": "https://apps.apple.com/it/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "it",
+    "country": "Italy",
+    "currency": "EUR",
+    "stars": 350,
+    "price": 7.59,
+    "price_per_star": 0.021686,
+    "checked": "2026-10-19",
+    "source": "https://apps.apple.com/it/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "it",
+    "country": "Italy",
+    "currency": "EUR",
+    "stars": 500,
+    "price": 10.9,
+    "price_per_star": 0.0218,
+    "checked": "2026-10-19",
+    "source": "https://apps.apple.com/it/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "it",
+    "country": "Italy",
+    "currency": "EUR",
+    "stars": 750,
+    "price": 16.49,
+    "price_per_star": 0.021987,
+    "checked": "2026-10-19",
+    "source": "https://apps.apple.com/it/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "it",
+    "country": "Italy",
+    "currency": "EUR",
+    "stars": 1000,
+    "price": 21.9,
+    "price_per_star": 0.0219,
+    "checked": "2026-10-19",
+    "source": "https://apps.apple.com/it/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "kz",
+    "country": "Kazakhstan",
+    "currency": "KZT",
+    "stars": 100,
+    "price": 1190,
+    "price_per_star": 11.9,
+    "checked": "2026-10-30",
+    "source": "https://apps.apple.com/kz/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "kz",
+    "country": "Kazakhstan",
+    "currency": "KZT",
+    "stars": 150,
+    "price": 1750,
+    "price_per_star": 11.666667,
+    "checked": "2026-10-30",
+    "source": "https://apps.apple.com/kz/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "kz",
+    "country": "Kazakhstan",
+    "currency": "KZT",
+    "stars": 250,
+    "price": 2900,
+    "price_per_star": 11.6,
+    "checked": "2026-10-30",
+    "source": "https://apps.apple.com/kz/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "kz",
+    "country": "Kazakhstan",
+    "currency": "KZT",
+    "stars": 350,
+    "price": 4100,
+    "price_per_star": 11.714286,
+    "checked": "2026-10-30",
+    "source": "https://apps.apple.com/kz/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "kz",
+    "country": "Kazakhstan",
+    "currency": "KZT",
+    "stars": 500,
+    "price": 5890,
+    "price_per_star": 11.78,
+    "checked": "2026-10-30",
+    "source": "https://apps.apple.com/kz/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "kz",
+    "country": "Kazakhstan",
+    "currency": "KZT",
+    "stars": 1000,
+    "price": 11790,
+    "price_per_star": 11.79,
+    "checked": "2026-10-30",
+    "source": "https://apps.apple.com/kz/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "mx",
+    "country": "Mexico",
+    "currency": "MXN",
+    "stars": 100,
+    "price": 48,
+    "price_per_star": 0.48,
+    "checked": "2026-10-15",
+    "source": "https://apps.apple.com/mx/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "mx",
+    "country": "Mexico",
+    "currency": "MXN",
+    "stars": 150,
+    "price": 73,
+    "price_per_star": 0.486667,
+    "checked": "2026-10-15",
+    "source": "https://apps.apple.com/mx/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "mx",
+    "country": "Mexico",
+    "currency": "MXN",
+    "stars": 250,
+    "price": 119,
+    "price_per_star": 0.476,
+    "checked": "2026-10-15",
+    "source": "https://apps.apple.com/mx/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "mx",
+    "country": "Mexico",
+    "currency": "MXN",
+    "stars": 350,
+    "price": 169,
+    "price_per_star": 0.482857,
+    "checked": "2026-10-15",
+    "source": "https://apps.apple.com/mx/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "mx",
+    "country": "Mexico",
+    "currency": "MXN",
+    "stars": 500,
+    "price": 239,
+    "price_per_star": 0.478,
+    "checked": "2026-10-15",
+    "source": "https://apps.apple.com/mx/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "mx",
+    "country": "Mexico",
+    "currency": "MXN",
+    "stars": 750,
+    "price": 359,
+    "price_per_star": 0.478667,
+    "checked": "2026-10-15",
+    "source": "https://apps.apple.com/mx/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "mx",
+    "country": "Mexico",
+    "currency": "MXN",
+    "stars": 1000,
+    "price": 479,
+    "price_per_star": 0.479,
+    "checked": "2026-10-15",
+    "source": "https://apps.apple.com/mx/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "no",
+    "country": "Norway",
+    "currency": "NOK",
+    "stars": 100,
+    "price": 27,
+    "price_per_star": 0.27,
+    "checked": "2026-10-30",
+    "source": "https://apps.apple.com/no/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "no",
+    "country": "Norway",
+    "currency": "NOK",
+    "stars": 150,
+    "price": 40,
+    "price_per_star": 0.266667,
+    "checked": "2026-10-30",
+    "source": "https://apps.apple.com/no/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "no",
+    "country": "Norway",
+    "currency": "NOK",
+    "stars": 250,
+    "price": 67,
+    "price_per_star": 0.268,
+    "checked": "2026-10-30",
+    "source": "https://apps.apple.com/no/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "no",
+    "country": "Norway",
+    "currency": "NOK",
+    "stars": 350,
+    "price": 94,
+    "price_per_star": 0.268571,
+    "checked": "2026-10-30",
+    "source": "https://apps.apple.com/no/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "no",
+    "country": "Norway",
+    "currency": "NOK",
+    "stars": 500,
+    "price": 135,
+    "price_per_star": 0.27,
+    "checked": "2026-10-30",
+    "source": "https://apps.apple.com/no/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "no",
+    "country": "Norway",
+    "currency": "NOK",
+    "stars": 750,
+    "price": 199,
+    "price_per_star": 0.265333,
+    "checked": "2026-10-30",
+    "source": "https://apps.apple.com/no/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "no",
+    "country": "Norway",
+    "currency": "NOK",
+    "stars": 1000,
+    "price": 269,
+    "price_per_star": 0.269,
+    "checked": "2026-10-30",
+    "source": "https://apps.apple.com/no/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "no",
+    "country": "Norway",
+    "currency": "NOK",
+    "stars": 2500,
+    "price": 669,
+    "price_per_star": 0.2676,
+    "checked": "2026-10-30",
+    "source": "https://apps.apple.com/no/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "pl",
+    "country": "Poland",
+    "currency": "PLN",
+    "stars": 100,
+    "price": 9.49,
+    "price_per_star": 0.0949,
+    "checked": "2026-10-15",
+    "source": "https://apps.apple.com/pl/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "pl",
+    "country": "Poland",
+    "currency": "PLN",
+    "stars": 150,
+    "price": 13.99,
+    "price_per_star": 0.093267,
+    "checked": "2026-10-15",
+    "source": "https://apps.apple.com/pl/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "pl",
+    "country": "Poland",
+    "currency": "PLN",
+    "stars": 250,
+    "price": 23.49,
+    "price_per_star": 0.09396,
+    "checked": "2026-10-15",
+    "source": "https://apps.apple.com/pl/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "pl",
+    "country": "Poland",
+    "currency": "PLN",
+    "stars": 500,
+    "price": 46.99,
+    "price_per_star": 0.09398,
+    "checked": "2026-10-15",
+    "source": "https://apps.apple.com/pl/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "pl",
+    "country": "Poland",
+    "currency": "PLN",
+    "stars": 750,
+    "price": 70.99,
+    "price_per_star": 0.094653,
+    "checked": "2026-10-15",
+    "source": "https://apps.apple.com/pl/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "pl",
+    "country": "Poland",
+    "currency": "PLN",
+    "stars": 1000,
+    "price": 93.99,
+    "price_per_star": 0.09399,
+    "checked": "2026-10-15",
+    "source": "https://apps.apple.com/pl/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "ru",
+    "country": "russia",
+    "currency": "RUB",
+    "stars": 100,
+    "price": 209,
+    "price_per_star": 2.09,
+    "checked": "2026-10-15",
+    "source": "https://apps.apple.com/ru/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "ru",
+    "country": "russia",
+    "currency": "RUB",
+    "stars": 150,
+    "price": 319,
+    "price_per_star": 2.126667,
+    "checked": "2026-10-15",
+    "source": "https://apps.apple.com/ru/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "ru",
+    "country": "russia",
+    "currency": "RUB",
+    "stars": 250,
+    "price": 529,
+    "price_per_star": 2.116,
+    "checked": "2026-10-15",
+    "source": "https://apps.apple.com/ru/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "ru",
+    "country": "russia",
+    "currency": "RUB",
+    "stars": 500,
+    "price": 1060,
+    "price_per_star": 2.12,
+    "checked": "2026-10-15",
+    "source": "https://apps.apple.com/ru/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "sa",
+    "country": "Saudi Arabia",
+    "currency": "SAR",
+    "stars": 100,
+    "price": 8.99,
+    "price_per_star": 0.0899,
+    "checked": "2026-10-30",
+    "source": "https://apps.apple.com/sa/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "sa",
+    "country": "Saudi Arabia",
+    "currency": "SAR",
+    "stars": 150,
+    "price": 12.99,
+    "price_per_star": 0.0866,
+    "checked": "2026-10-30",
+    "source": "https://apps.apple.com/sa/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "sa",
+    "country": "Saudi Arabia",
+    "currency": "SAR",
+    "stars": 250,
+    "price": 21.99,
+    "price_per_star": 0.08796,
+    "checked": "2026-10-30",
+    "source": "https://apps.apple.com/sa/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "sa",
+    "country": "Saudi Arabia",
+    "currency": "SAR",
+    "stars": 350,
+    "price": 30.49,
+    "price_per_star": 0.087114,
+    "checked": "2026-10-30",
+    "source": "https://apps.apple.com/sa/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "sa",
+    "country": "Saudi Arabia",
+    "currency": "SAR",
+    "stars": 500,
+    "price": 43.49,
+    "price_per_star": 0.08698,
+    "checked": "2026-10-30",
+    "source": "https://apps.apple.com/sa/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "sa",
+    "country": "Saudi Arabia",
+    "currency": "SAR",
+    "stars": 1000,
+    "price": 86.99,
+    "price_per_star": 0.08699,
+    "checked": "2026-10-30",
+    "source": "https://apps.apple.com/sa/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "sa",
+    "country": "Saudi Arabia",
+    "currency": "SAR",
+    "stars": 1500,
+    "price": 129,
+    "price_per_star": 0.086,
+    "checked": "2026-10-30",
+    "source": "https://apps.apple.com/sa/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "sa",
+    "country": "Saudi Arabia",
+    "currency": "SAR",
+    "stars": 2500,
+    "price": 219,
+    "price_per_star": 0.0876,
+    "checked": "2026-10-30",
+    "source": "https://apps.apple.com/sa/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "es",
+    "country": "Spain",
+    "currency": "EUR",
+    "stars": 100,
+    "price": 2.19,
+    "price_per_star": 0.0219,
+    "checked": "2026-10-15",
+    "source": "https://apps.apple.com/es/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "es",
+    "country": "Spain",
+    "currency": "EUR",
+    "stars": 150,
+    "price": 3.19,
+    "price_per_star": 0.021267,
+    "checked": "2026-10-15",
+    "source": "https://apps.apple.com/es/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "es",
+    "country": "Spain",
+    "currency": "EUR",
+    "stars": 250,
+    "price": 5.39,
+    "price_per_star": 0.02156,
+    "checked": "2026-10-15",
+    "source": "https://apps.apple.com/es/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "es",
+    "country": "Spain",
+    "currency": "EUR",
+    "stars": 350,
+    "price": 7.59,
+    "price_per_star": 0.021686,
+    "checked": "2026-10-15",
+    "source": "https://apps.apple.com/es/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "es",
+    "country": "Spain",
+    "currency": "EUR",
+    "stars": 500,
+    "price": 10.9,
+    "price_per_star": 0.0218,
+    "checked": "2026-10-15",
+    "source": "https://apps.apple.com/es/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "es",
+    "country": "Spain",
+    "currency": "EUR",
+    "stars": 750,
+    "price": 15.99,
+    "price_per_star": 0.02132,
+    "checked": "2026-10-15",
+    "source": "https://apps.apple.com/es/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "es",
+    "country": "Spain",
+    "currency": "EUR",
+    "stars": 1000,
+    "price": 21.49,
+    "price_per_star": 0.02149,
+    "checked": "2026-10-15",
+    "source": "https://apps.apple.com/es/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "se",
+    "country": "Sweden",
+    "currency": "SEK",
+    "stars": 100,
+    "price": 25,
+    "price_per_star": 0.25,
+    "checked": "2026-10-30",
+    "source": "https://apps.apple.com/se/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "se",
+    "country": "Sweden",
+    "currency": "SEK",
+    "stars": 250,
+    "price": 62,
+    "price_per_star": 0.248,
+    "checked": "2026-10-30",
+    "source": "https://apps.apple.com/se/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "se",
+    "country": "Sweden",
+    "currency": "SEK",
+    "stars": 500,
+    "price": 125,
+    "price_per_star": 0.25,
+    "checked": "2026-10-30",
+    "source": "https://apps.apple.com/se/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "se",
+    "country": "Sweden",
+    "currency": "SEK",
+    "stars": 750,
+    "price": 189,
+    "price_per_star": 0.252,
+    "checked": "2026-10-30",
+    "source": "https://apps.apple.com/se/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "se",
+    "country": "Sweden",
+    "currency": "SEK",
+    "stars": 1000,
+    "price": 249,
+    "price_per_star": 0.249,
+    "checked": "2026-10-30",
+    "source": "https://apps.apple.com/se/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "se",
+    "country": "Sweden",
+    "currency": "SEK",
+    "stars": 2500,
+    "price": 619,
+    "price_per_star": 0.2476,
+    "checked": "2026-10-30",
+    "source": "https://apps.apple.com/se/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "tr",
+    "country": "Türkiye",
+    "currency": "TRY",
+    "stars": 100,
+    "price": 99.99,
+    "price_per_star": 0.9999,
+    "checked": "2026-10-15",
+    "source": "https://apps.apple.com/tr/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "tr",
+    "country": "Türkiye",
+    "currency": "TRY",
+    "stars": 150,
+    "price": 149,
+    "price_per_star": 0.993333,
+    "checked": "2026-10-15",
+    "source": "https://apps.apple.com/tr/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "tr",
+    "country": "Türkiye",
+    "currency": "TRY",
+    "stars": 250,
+    "price": 249,
+    "price_per_star": 0.996,
+    "checked": "2026-10-15",
+    "source": "https://apps.apple.com/tr/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "tr",
+    "country": "Türkiye",
+    "currency": "TRY",
+    "stars": 350,
+    "price": 349,
+    "price_per_star": 0.997143,
+    "checked": "2026-10-15",
+    "source": "https://apps.apple.com/tr/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "tr",
+    "country": "Türkiye",
+    "currency": "TRY",
+    "stars": 500,
+    "price": 499,
+    "price_per_star": 0.998,
+    "checked": "2026-10-15",
+    "source": "https://apps.apple.com/tr/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "tr",
+    "country": "Türkiye",
+    "currency": "TRY",
+    "stars": 750,
+    "price": 749,
+    "price_per_star": 0.998667,
+    "checked": "2026-10-15",
+    "source": "https://apps.apple.com/tr/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "tr",
+    "country": "Türkiye",
+    "currency": "TRY",
+    "stars": 1000,
+    "price": 999,
+    "price_per_star": 0.999,
+    "checked": "2026-10-15",
+    "source": "https://apps.apple.com/tr/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "us",
+    "country": "United States",
+    "currency": "USD",
+    "stars": 100,
+    "price": 1.99,
+    "price_per_star": 0.0199,
+    "checked": "2026-10-14",
+    "source": "https://apps.apple.com/us/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "us",
+    "country": "United States",
+    "currency": "USD",
+    "stars": 250,
+    "price": 5.09,
+    "price_per_star": 0.02036,
+    "checked": "2026-10-14",
+    "source": "https://apps.apple.com/us/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "us",
+    "country": "United States",
+    "currency": "USD",
+    "stars": 500,
+    "price": 9.99,
+    "price_per_star": 0.01998,
+    "checked": "2026-10-14",
+    "source": "https://apps.apple.com/us/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "us",
+    "country": "United States",
+    "currency": "USD",
+    "stars": 750,
+    "price": 14.99,
+    "price_per_star": 0.019987,
+    "checked": "2026-10-14",
+    "source": "https://apps.apple.com/us/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "us",
+    "country": "United States",
+    "currency": "USD",
+    "stars": 1000,
+    "price": 19.99,
+    "price_per_star": 0.01999,
+    "checked": "2026-10-14",
+    "source": "https://apps.apple.com/us/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "us",
+    "country": "United States",
+    "currency": "USD",
+    "stars": 1500,
+    "price": 29.99,
+    "price_per_star": 0.019993,
+    "checked": "2026-10-14",
+    "source": "https://apps.apple.com/us/app/telegram-messenger/id686449807"
+  },
+  {
+    "store": "us",
+    "country": "United States",
+    "currency": "USD",
+    "stars": 2500,
+    "price": 50.9,
+    "price_per_star": 0.02036,
+    "checked": "2026-10-14",
+    "source": "https://apps.apple.com/us/app/telegram-messenger/id686449807"
+  }
+]

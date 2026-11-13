@@ -1,0 +1,986 @@
+[
+  {
+    "rank": 1,
+    "slug": "intelligencecup",
+    "name": "Intelligence Cups",
+    "issued": 28,
+    "fragment_url": "https://fragment.com/gifts/intelligencecup",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 2,
+    "slug": "algorithmcup",
+    "name": "Algorithm Cups",
+    "issued": 61,
+    "fragment_url": "https://fragment.com/gifts/algorithmcup",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 3,
+    "slug": "luckylocket",
+    "name": "Lucky Lockets",
+    "issued": 710,
+    "fragment_url": "https://fragment.com/gifts/luckylocket",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 4,
+    "slug": "durovsglasses",
+    "name": "Durov’s Glasses",
+    "issued": 728,
+    "fragment_url": "https://fragment.com/gifts/durovsglasses",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 5,
+    "slug": "resistancedog",
+    "name": "Resistance Dogs",
+    "issued": 1052,
+    "fragment_url": "https://fragment.com/gifts/resistancedog",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 6,
+    "slug": "heartlocket",
+    "name": "Heart Lockets",
+    "issued": 1333,
+    "fragment_url": "https://fragment.com/gifts/heartlocket",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 7,
+    "slug": "heroichelmet",
+    "name": "Heroic Helmets",
+    "issued": 1357,
+    "fragment_url": "https://fragment.com/gifts/heroichelmet",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 8,
+    "slug": "mightyarm",
+    "name": "Mighty Arms",
+    "issued": 1859,
+    "fragment_url": "https://fragment.com/gifts/mightyarm",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 9,
+    "slug": "miragelamp",
+    "name": "Mirage Lamps",
+    "issued": 1949,
+    "fragment_url": "https://fragment.com/gifts/miragelamp",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 10,
+    "slug": "nailbracelet",
+    "name": "Nail Bracelets",
+    "issued": 1959,
+    "fragment_url": "https://fragment.com/gifts/nailbracelet",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 11,
+    "slug": "preciouspeach",
+    "name": "Precious Peaches",
+    "issued": 2168,
+    "fragment_url": "https://fragment.com/gifts/preciouspeach",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 12,
+    "slug": "perfumebottle",
+    "name": "Perfume Bottles",
+    "issued": 2198,
+    "fragment_url": "https://fragment.com/gifts/perfumebottle",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 13,
+    "slug": "minioscar",
+    "name": "Mini Oscars",
+    "issued": 2199,
+    "fragment_url": "https://fragment.com/gifts/minioscar",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 14,
+    "slug": "gemsignet",
+    "name": "Gem Signets",
+    "issued": 2213,
+    "fragment_url": "https://fragment.com/gifts/gemsignet",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 15,
+    "slug": "blingbinky",
+    "name": "Bling Binkies",
+    "issued": 2226,
+    "fragment_url": "https://fragment.com/gifts/blingbinky",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 16,
+    "slug": "plushpepe",
+    "name": "Plush Pepes",
+    "issued": 2484,
+    "fragment_url": "https://fragment.com/gifts/plushpepe",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 17,
+    "slug": "iongem",
+    "name": "Ion Gems",
+    "issued": 2745,
+    "fragment_url": "https://fragment.com/gifts/iongem",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 18,
+    "slug": "genielamp",
+    "name": "Genie Lamps",
+    "issued": 2794,
+    "fragment_url": "https://fragment.com/gifts/genielamp",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 19,
+    "slug": "ionicdryer",
+    "name": "Ionic Dryers",
+    "issued": 2848,
+    "fragment_url": "https://fragment.com/gifts/ionicdryer",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 20,
+    "slug": "astralshard",
+    "name": "Astral Shards",
+    "issued": 3011,
+    "fragment_url": "https://fragment.com/gifts/astralshard",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 21,
+    "slug": "bondedring",
+    "name": "Bonded Rings",
+    "issued": 3014,
+    "fragment_url": "https://fragment.com/gifts/bondedring",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 22,
+    "slug": "artisanbrick",
+    "name": "Artisan Bricks",
+    "issued": 3063,
+    "fragment_url": "https://fragment.com/gifts/artisanbrick",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 23,
+    "slug": "durovscap",
+    "name": "Durov’s Caps",
+    "issued": 3292,
+    "fragment_url": "https://fragment.com/gifts/durovscap",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 24,
+    "slug": "magicpotion",
+    "name": "Magic Potions",
+    "issued": 3331,
+    "fragment_url": "https://fragment.com/gifts/magicpotion",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 25,
+    "slug": "lovecandle",
+    "name": "Love Candles",
+    "issued": 3429,
+    "fragment_url": "https://fragment.com/gifts/lovecandle",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 26,
+    "slug": "surgeboard",
+    "name": "Surge Boards",
+    "issued": 3694,
+    "fragment_url": "https://fragment.com/gifts/surgeboard",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 27,
+    "slug": "khabibspapakha",
+    "name": "Khabib’s Papakhas",
+    "issued": 3722,
+    "fragment_url": "https://fragment.com/gifts/khabibspapakha",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 28,
+    "slug": "rarebird",
+    "name": "Rare Birds",
+    "issued": 3874,
+    "fragment_url": "https://fragment.com/gifts/rarebird",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 29,
+    "slug": "finepen",
+    "name": "Fine Pens",
+    "issued": 3918,
+    "fragment_url": "https://fragment.com/gifts/finepen",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 30,
+    "slug": "sharptongue",
+    "name": "Sharp Tongues",
+    "issued": 3966,
+    "fragment_url": "https://fragment.com/gifts/sharptongue",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 31,
+    "slug": "valentinebox",
+    "name": "Valentine Boxes",
+    "issued": 4132,
+    "fragment_url": "https://fragment.com/gifts/valentinebox",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 32,
+    "slug": "nekohelmet",
+    "name": "Neko Helmets",
+    "issued": 4311,
+    "fragment_url": "https://fragment.com/gifts/nekohelmet",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 33,
+    "slug": "joyfulbundle",
+    "name": "Joyful Bundles",
+    "issued": 4398,
+    "fragment_url": "https://fragment.com/gifts/joyfulbundle",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 34,
+    "slug": "electricskull",
+    "name": "Electric Skulls",
+    "issued": 4438,
+    "fragment_url": "https://fragment.com/gifts/electricskull",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 35,
+    "slug": "sleighbell",
+    "name": "Sleigh Bells",
+    "issued": 4454,
+    "fragment_url": "https://fragment.com/gifts/sleighbell",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 36,
+    "slug": "snowmittens",
+    "name": "Snow Mittens",
+    "issued": 5329,
+    "fragment_url": "https://fragment.com/gifts/snowmittens",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 37,
+    "slug": "westsidesign",
+    "name": "Westside Signs",
+    "issued": 5341,
+    "fragment_url": "https://fragment.com/gifts/westsidesign",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 38,
+    "slug": "recordplayer",
+    "name": "Record Players",
+    "issued": 5701,
+    "fragment_url": "https://fragment.com/gifts/recordplayer",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 39,
+    "slug": "eternalrose",
+    "name": "Eternal Roses",
+    "issued": 5918,
+    "fragment_url": "https://fragment.com/gifts/eternalrose",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 40,
+    "slug": "cupidcharm",
+    "name": "Cupid Charms",
+    "issued": 6088,
+    "fragment_url": "https://fragment.com/gifts/cupidcharm",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 41,
+    "slug": "prettyposy",
+    "name": "Pretty Posies",
+    "issued": 6184,
+    "fragment_url": "https://fragment.com/gifts/prettyposy",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 42,
+    "slug": "skystilettos",
+    "name": "Sky Stilettos",
+    "issued": 6375,
+    "fragment_url": "https://fragment.com/gifts/skystilettos",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 43,
+    "slug": "lootbag",
+    "name": "Loot Bags",
+    "issued": 6696,
+    "fragment_url": "https://fragment.com/gifts/lootbag",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 44,
+    "slug": "holidaydrink",
+    "name": "Holiday Drinks",
+    "issued": 6826,
+    "fragment_url": "https://fragment.com/gifts/holidaydrink",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 45,
+    "slug": "snowglobe",
+    "name": "Snow Globes",
+    "issued": 6831,
+    "fragment_url": "https://fragment.com/gifts/snowglobe",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 46,
+    "slug": "madpumpkin",
+    "name": "Mad Pumpkins",
+    "issued": 6861,
+    "fragment_url": "https://fragment.com/gifts/madpumpkin",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 47,
+    "slug": "flyingbroom",
+    "name": "Flying Brooms",
+    "issued": 6899,
+    "fragment_url": "https://fragment.com/gifts/flyingbroom",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 48,
+    "slug": "lowrider",
+    "name": "Low Riders",
+    "issued": 6916,
+    "fragment_url": "https://fragment.com/gifts/lowrider",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 49,
+    "slug": "lovepotion",
+    "name": "Love Potions",
+    "issued": 6938,
+    "fragment_url": "https://fragment.com/gifts/lovepotion",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 50,
+    "slug": "lushbouquet",
+    "name": "Lush Bouquets",
+    "issued": 6976,
+    "fragment_url": "https://fragment.com/gifts/lushbouquet",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 51,
+    "slug": "bunnymuffin",
+    "name": "Bunny Muffins",
+    "issued": 7007,
+    "fragment_url": "https://fragment.com/gifts/bunnymuffin",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 52,
+    "slug": "ufcstrike",
+    "name": "UFC Strikes",
+    "issued": 7108,
+    "fragment_url": "https://fragment.com/gifts/ufcstrike",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 53,
+    "slug": "skullflower",
+    "name": "Skull Flowers",
+    "issued": 7187,
+    "fragment_url": "https://fragment.com/gifts/skullflower",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 54,
+    "slug": "hangingstar",
+    "name": "Hanging Stars",
+    "issued": 7337,
+    "fragment_url": "https://fragment.com/gifts/hangingstar",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 55,
+    "slug": "signetring",
+    "name": "Signet Rings",
+    "issued": 7407,
+    "fragment_url": "https://fragment.com/gifts/signetring",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 56,
+    "slug": "kissedfrog",
+    "name": "Kissed Frogs",
+    "issued": 7743,
+    "fragment_url": "https://fragment.com/gifts/kissedfrog",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 57,
+    "slug": "moussecake",
+    "name": "Mousse Cakes",
+    "issued": 8479,
+    "fragment_url": "https://fragment.com/gifts/moussecake",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 58,
+    "slug": "crystalball",
+    "name": "Crystal Balls",
+    "issued": 8627,
+    "fragment_url": "https://fragment.com/gifts/crystalball",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 59,
+    "slug": "diamondring",
+    "name": "Diamond Rings",
+    "issued": 8742,
+    "fragment_url": "https://fragment.com/gifts/diamondring",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 60,
+    "slug": "bowtie",
+    "name": "Bow Ties",
+    "issued": 9158,
+    "fragment_url": "https://fragment.com/gifts/bowtie",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 61,
+    "slug": "vintagecigar",
+    "name": "Vintage Cigars",
+    "issued": 9187,
+    "fragment_url": "https://fragment.com/gifts/vintagecigar",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 62,
+    "slug": "jinglebells",
+    "name": "Jingle Bells",
+    "issued": 9250,
+    "fragment_url": "https://fragment.com/gifts/jinglebells",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 63,
+    "slug": "berrybox",
+    "name": "Berry Boxes",
+    "issued": 9253,
+    "fragment_url": "https://fragment.com/gifts/berrybox",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 64,
+    "slug": "tophat",
+    "name": "Top Hats",
+    "issued": 9329,
+    "fragment_url": "https://fragment.com/gifts/tophat",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 65,
+    "slug": "hypnolollipop",
+    "name": "Hypno Lollipops",
+    "issued": 9349,
+    "fragment_url": "https://fragment.com/gifts/hypnolollipop",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 66,
+    "slug": "starnotepad",
+    "name": "Star Notepads",
+    "issued": 9659,
+    "fragment_url": "https://fragment.com/gifts/starnotepad",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 67,
+    "slug": "timelessbook",
+    "name": "Timeless Books",
+    "issued": 9895,
+    "fragment_url": "https://fragment.com/gifts/timelessbook",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 68,
+    "slug": "trappedheart",
+    "name": "Trapped Hearts",
+    "issued": 9908,
+    "fragment_url": "https://fragment.com/gifts/trappedheart",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 69,
+    "slug": "moneypot",
+    "name": "Money Pots",
+    "issued": 9922,
+    "fragment_url": "https://fragment.com/gifts/moneypot",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 70,
+    "slug": "restlessjar",
+    "name": "Restless Jars",
+    "issued": 10153,
+    "fragment_url": "https://fragment.com/gifts/restlessjar",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 71,
+    "slug": "winterwreath",
+    "name": "Winter Wreaths",
+    "issued": 10360,
+    "fragment_url": "https://fragment.com/gifts/winterwreath",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 72,
+    "slug": "snakebox",
+    "name": "Snake Boxes",
+    "issued": 10750,
+    "fragment_url": "https://fragment.com/gifts/snakebox",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 73,
+    "slug": "swisswatch",
+    "name": "Swiss Watches",
+    "issued": 11113,
+    "fragment_url": "https://fragment.com/gifts/swisswatch",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 74,
+    "slug": "voodoodoll",
+    "name": "Voodoo Dolls",
+    "issued": 11204,
+    "fragment_url": "https://fragment.com/gifts/voodoodoll",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 75,
+    "slug": "tamagadget",
+    "name": "Tama Gadgets",
+    "issued": 11762,
+    "fragment_url": "https://fragment.com/gifts/tamagadget",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 76,
+    "slug": "happybrownie",
+    "name": "Happy Brownies",
+    "issued": 12272,
+    "fragment_url": "https://fragment.com/gifts/happybrownie",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 77,
+    "slug": "petsnake",
+    "name": "Pet Snakes",
+    "issued": 12358,
+    "fragment_url": "https://fragment.com/gifts/petsnake",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 78,
+    "slug": "faithamulet",
+    "name": "Faith Amulets",
+    "issued": 12690,
+    "fragment_url": "https://fragment.com/gifts/faithamulet",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 79,
+    "slug": "spicedwine",
+    "name": "Spiced Wines",
+    "issued": 12799,
+    "fragment_url": "https://fragment.com/gifts/spicedwine",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 80,
+    "slug": "eternalcandle",
+    "name": "Eternal Candles",
+    "issued": 12914,
+    "fragment_url": "https://fragment.com/gifts/eternalcandle",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 81,
+    "slug": "freshsocks",
+    "name": "Fresh Socks",
+    "issued": 12939,
+    "fragment_url": "https://fragment.com/gifts/freshsocks",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 82,
+    "slug": "santahat",
+    "name": "Santa Hats",
+    "issued": 13213,
+    "fragment_url": "https://fragment.com/gifts/santahat",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 83,
+    "slug": "bigyear",
+    "name": "Big Years",
+    "issued": 13214,
+    "fragment_url": "https://fragment.com/gifts/bigyear",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 84,
+    "slug": "moonpendant",
+    "name": "Moon Pendants",
+    "issued": 13845,
+    "fragment_url": "https://fragment.com/gifts/moonpendant",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 85,
+    "slug": "jesterhat",
+    "name": "Jester Hats",
+    "issued": 13883,
+    "fragment_url": "https://fragment.com/gifts/jesterhat",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 86,
+    "slug": "springbasket",
+    "name": "Spring Baskets",
+    "issued": 14057,
+    "fragment_url": "https://fragment.com/gifts/springbasket",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 87,
+    "slug": "cookieheart",
+    "name": "Cookie Hearts",
+    "issued": 14099,
+    "fragment_url": "https://fragment.com/gifts/cookieheart",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 88,
+    "slug": "jellybunny",
+    "name": "Jelly Bunnies",
+    "issued": 14472,
+    "fragment_url": "https://fragment.com/gifts/jellybunny",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 89,
+    "slug": "scaredcat",
+    "name": "Scared Cats",
+    "issued": 14539,
+    "fragment_url": "https://fragment.com/gifts/scaredcat",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 90,
+    "slug": "sakuraflower",
+    "name": "Sakura Flowers",
+    "issued": 14670,
+    "fragment_url": "https://fragment.com/gifts/sakuraflower",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 91,
+    "slug": "hexpot",
+    "name": "Hex Pots",
+    "issued": 14965,
+    "fragment_url": "https://fragment.com/gifts/hexpot",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 92,
+    "slug": "inputkey",
+    "name": "Input Keys",
+    "issued": 15746,
+    "fragment_url": "https://fragment.com/gifts/inputkey",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 93,
+    "slug": "jollychimp",
+    "name": "Jolly Chimps",
+    "issued": 15929,
+    "fragment_url": "https://fragment.com/gifts/jollychimp",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 94,
+    "slug": "whipcupcake",
+    "name": "Whip Cupcakes",
+    "issued": 16371,
+    "fragment_url": "https://fragment.com/gifts/whipcupcake",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 95,
+    "slug": "victorymedal",
+    "name": "Victory Medals",
+    "issued": 16606,
+    "fragment_url": "https://fragment.com/gifts/victorymedal",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 96,
+    "slug": "moodpack",
+    "name": "Mood Packs",
+    "issued": 16930,
+    "fragment_url": "https://fragment.com/gifts/moodpack",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 97,
+    "slug": "jackinthebox",
+    "name": "Jacks-in-the-Box",
+    "issued": 17001,
+    "fragment_url": "https://fragment.com/gifts/jackinthebox",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 98,
+    "slug": "xmasstocking",
+    "name": "Xmas Stockings",
+    "issued": 17100,
+    "fragment_url": "https://fragment.com/gifts/xmasstocking",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 99,
+    "slug": "poolfloat",
+    "name": "Pool Floats",
+    "issued": 17110,
+    "fragment_url": "https://fragment.com/gifts/poolfloat",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 100,
+    "slug": "stellarrocket",
+    "name": "Stellar Rockets",
+    "issued": 17563,
+    "fragment_url": "https://fragment.com/gifts/stellarrocket",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 101,
+    "slug": "candycane",
+    "name": "Candy Canes",
+    "issued": 17712,
+    "fragment_url": "https://fragment.com/gifts/candycane",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 102,
+    "slug": "lightsword",
+    "name": "Light Swords",
+    "issued": 17926,
+    "fragment_url": "https://fragment.com/gifts/lightsword",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 103,
+    "slug": "evileye",
+    "name": "Evil Eyes",
+    "issued": 18922,
+    "fragment_url": "https://fragment.com/gifts/evileye",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 104,
+    "slug": "gingercookie",
+    "name": "Ginger Cookies",
+    "issued": 19134,
+    "fragment_url": "https://fragment.com/gifts/gingercookie",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 105,
+    "slug": "snoopcigar",
+    "name": "Snoop Cigars",
+    "issued": 19363,
+    "fragment_url": "https://fragment.com/gifts/snoopcigar",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 106,
+    "slug": "cloverpin",
+    "name": "Clover Pins",
+    "issued": 20069,
+    "fragment_url": "https://fragment.com/gifts/cloverpin",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 107,
+    "slug": "lunarsnake",
+    "name": "Lunar Snakes",
+    "issued": 20350,
+    "fragment_url": "https://fragment.com/gifts/lunarsnake",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 108,
+    "slug": "swagbag",
+    "name": "Swag Bags",
+    "issued": 22037,
+    "fragment_url": "https://fragment.com/gifts/swagbag",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 109,
+    "slug": "partysparkler",
+    "name": "Party Sparklers",
+    "issued": 22282,
+    "fragment_url": "https://fragment.com/gifts/partysparkler",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 110,
+    "slug": "bdaycandle",
+    "name": "B-Day Candles",
+    "issued": 25166,
+    "fragment_url": "https://fragment.com/gifts/bdaycandle",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 111,
+    "slug": "libertyfigure",
+    "name": "Liberty Figures",
+    "issued": 26059,
+    "fragment_url": "https://fragment.com/gifts/libertyfigure",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 112,
+    "slug": "instantramen",
+    "name": "Instant Ramens",
+    "issued": 26578,
+    "fragment_url": "https://fragment.com/gifts/instantramen",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 113,
+    "slug": "easteregg",
+    "name": "Easter Eggs",
+    "issued": 28224,
+    "fragment_url": "https://fragment.com/gifts/easteregg",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 114,
+    "slug": "spyagaric",
+    "name": "Spy Agarics",
+    "issued": 29447,
+    "fragment_url": "https://fragment.com/gifts/spyagaric",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 115,
+    "slug": "toybear",
+    "name": "Toy Bears",
+    "issued": 30094,
+    "fragment_url": "https://fragment.com/gifts/toybear",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 116,
+    "slug": "witchhat",
+    "name": "Witch Hats",
+    "issued": 31583,
+    "fragment_url": "https://fragment.com/gifts/witchhat",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 117,
+    "slug": "homemadecake",
+    "name": "Homemade Cakes",
+    "issued": 33881,
+    "fragment_url": "https://fragment.com/gifts/homemadecake",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 118,
+    "slug": "deskcalendar",
+    "name": "Desk Calendars",
+    "issued": 34926,
+    "fragment_url": "https://fragment.com/gifts/deskcalendar",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 119,
+    "slug": "icecream",
+    "name": "Ice Creams",
+    "issued": 38089,
+    "fragment_url": "https://fragment.com/gifts/icecream",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 120,
+    "slug": "chillflame",
+    "name": "Chill Flames",
+    "issued": 48318,
+    "fragment_url": "https://fragment.com/gifts/chillflame",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 121,
+    "slug": "vicecream",
+    "name": "Vice Creams",
+    "issued": 48718,
+    "fragment_url": "https://fragment.com/gifts/vicecream",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 122,
+    "slug": "snoopdogg",
+    "name": "Snoop Doggs",
+    "issued": 58808,
+    "fragment_url": "https://fragment.com/gifts/snoopdogg",
+    "captured": "2026-11-08"
+  },
+  {
+    "rank": 123,
+    "slug": "lolpop",
+    "name": "Lol Pops",
+    "issued": 70024,
+    "fragment_url": "https://fragment.com/gifts/lolpop",
+    "captured": "2026-11-08"
+  }
+]

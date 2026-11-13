@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Telegram Hediyeleri ve Yıldızları Veri Seti: fiyat (CSV, JSON)</title>
+<meta name="description" content="Ülkelere göre Telegram Yıldız ve Premium fiyatlarını, basım adetleriyle 123 koleksiyon hediye koleksiyonunu ve 152 sınırlı hediyeyi içeren açık veri seti. CSV ve JSON, CC BY 4.0.">
+<link rel="canonical" href="https://gift-club.github.io/telegram-gifts-dataset/tr/">
+<link rel="alternate" hreflang="en" href="https://gift-club.github.io/telegram-gifts-dataset/">
+<link rel="alternate" hreflang="ru" href="https://gift-club.github.io/telegram-gifts-dataset/ru/">
+<link rel="alternate" hreflang="uk" href="https://gift-club.github.io/telegram-gifts-dataset/uk/">
+<link rel="alternate" hreflang="es" href="https://gift-club.github.io/telegram-gifts-dataset/es/">
+<link rel="alternate" hreflang="pl" href="https://gift-club.github.io/telegram-gifts-dataset/pl/">
+<link rel="alternate" hreflang="it" href="https://gift-club.github.io/telegram-gifts-dataset/it/">
+<link rel="alternate" hreflang="tr" href="https://gift-club.github.io/telegram-gifts-dataset/tr/">
+<link rel="alternate" hreflang="de" href="https://gift-club.github.io/telegram-gifts-dataset/de/">
+<link rel="alternate" hreflang="fr" href="https://gift-club.github.io/telegram-gifts-dataset/fr/">
+<link rel="alternate" hreflang="x-default" href="https://gift-club.github.io/telegram-gifts-dataset/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Telegram Hediyeleri ve Yıldızları Veri Seti">
+<meta property="og:title" content="Telegram Hediyeleri ve Yıldızları Veri Seti: fiyat (CSV, JSON)">
+<meta property="og:description" content="Ülkelere göre Telegram Yıldız ve Premium fiyatlarını, basım adetleriyle 123 koleksiyon hediye koleksiyonunu ve 152 sınırlı hediyeyi içeren açık veri seti. CSV ve JSON, CC BY 4.0.">
+<meta property="og:url" content="https://gift-club.github.io/telegram-gifts-dataset/tr/">
+<meta property="og:locale" content="tr_TR">
+<meta name="twitter:card" content="summary">
+<meta name="theme-color" content="#0d0b14">
+<link rel="icon" href="/telegram-gifts-dataset/favicon.ico" sizes="any">
+<link rel="icon" type="image/png" sizes="32x32" href="/telegram-gifts-dataset/favicon-32.png">
+<link rel="icon" type="image/png" sizes="192x192" href="/telegram-gifts-dataset/icon-192.png">
+<link rel="apple-touch-icon" href="/telegram-gifts-dataset/apple-touch-icon.png">
+<style>:root{color-scheme:dark;--bg:#0d0b14;--panel:#17141f;--line:#2a2535;--ink:#f3f0fa;--muted:#a59fb5;--accent:#ffcf4a;--link:#8ec5ff}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.6 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+a{color:var(--link)}
+a:hover{text-decoration-thickness:2px}
+.wrap{max-width:860px;margin:0 auto;padding:0 16px}
+header{border-bottom:1px solid var(--line)}
+header .wrap{display:flex;flex-wrap:wrap;gap:8px 16px;align-items:center;justify-content:space-between;padding-top:14px;padding-bottom:14px}
+.brand{display:inline-flex;align-items:center;gap:10px;font-weight:700;color:var(--ink);text-decoration:none}
+.brand img{display:block;width:32px;height:32px;border-radius:8px}
+.brand em{font-style:normal;color:var(--accent)}
+nav ul{display:flex;flex-wrap:wrap;gap:6px 14px;list-style:none;margin:0;padding:0;font-size:15px}
+nav a{color:var(--muted);text-decoration:none}
+nav a[aria-current=page]{color:var(--ink);font-weight:600}
+main{padding:28px 0 40px}
+h1{font-size:clamp(28px,5vw,40px);line-height:1.15;margin:0 0 12px}
+h2{font-size:24px;line-height:1.25;margin:36px 0 10px}
+h3{font-size:19px;margin:24px 0 8px}
+.lead{font-size:18px;color:var(--ink)}
+.meta{color:var(--muted);font-size:14px}
+.answer{background:var(--panel);border:1px solid var(--line);border-left:4px solid var(--accent);border-radius:10px;padding:14px 16px;margin:18px 0}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px;margin:16px 0}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:14px 16px}
+.card h3{margin:0 0 6px;font-size:17px}
+.card p{margin:0;color:var(--muted);font-size:15px}
+.table-wrap{overflow-x:auto;margin:12px 0;border:1px solid var(--line);border-radius:10px}
+table{border-collapse:collapse;width:100%;font-size:15px}
+th,td{padding:8px 10px;border-bottom:1px solid var(--line);text-align:left;white-space:nowrap}
+pre,code{overflow-wrap:anywhere}
+pre{white-space:pre}
+th{background:var(--panel);position:sticky;top:0}
+td.num,th.num{text-align:right;font-variant-numeric:tabular-nums}
+tr:last-child td{border-bottom:0}
+caption{caption-side:top;text-align:left;padding:8px 10px;color:var(--muted);font-size:14px}
+code,pre{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:14px}
+code{background:var(--panel);padding:1px 5px;border-radius:5px}
+pre{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:12px 14px;overflow-x:auto}
+pre code{background:none;padding:0}
+details{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:10px 14px;margin:8px 0}
+summary{cursor:pointer;font-weight:600}
+.langs{display:flex;flex-wrap:wrap;gap:4px 12px;font-size:14px;color:var(--muted)}
+.langs a{color:var(--muted)}
+.langs a[aria-current=true]{color:var(--ink);font-weight:600;text-decoration:none}
+footer{border-top:1px solid var(--line);padding:24px 0 40px;color:var(--muted);font-size:14px}
+footer p{margin:6px 0}
+iframe{max-width:100%}</style>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Dataset","@id":"https://gift-club.github.io/telegram-gifts-dataset/#dataset","name":"Telegram Gifts and Stars Dataset","description":"Ülkelere göre Telegram Yıldız ve Premium fiyatlarını, basım adetleriyle 123 koleksiyon hediye koleksiyonunu ve 152 sınırlı hediyeyi içeren açık veri seti. CSV ve JSON, CC BY 4.0.","url":"https://gift-club.github.io/telegram-gifts-dataset/tr/","inLanguage":"tr","sameAs":"https://github.com/gift-club/telegram-gifts-dataset","license":"https://creativecommons.org/licenses/by/4.0/","isAccessibleForFree":true,"creator":{"@type":"Organization","@id":"https://giftclub.app/#organization","name":"Gift Club","url":"https://giftclub.app/","sameAs":["https://github.com/gift-club","https://gift-club.github.io/"]},"publisher":{"@type":"Organization","@id":"https://giftclub.app/#organization","name":"Gift Club","url":"https://giftclub.app/","sameAs":["https://github.com/gift-club","https://gift-club.github.io/"]},"keywords":["Telegram Yıldızları","Telegram Premium","Telegram hediyeleri","Fragment","App Store","veri seti","CSV","JSON"],"dateModified":"2026-11-08","temporalCoverage":"2024-10-24/2026-11-08","distribution":[{"@type":"DataDownload","name":"stars-app-store-prices.csv","encodingFormat":"text/csv","contentUrl":"https://gift-club.github.io/telegram-gifts-dataset/data/stars-app-store-prices.csv"},{"@type":"DataDownload","name":"stars-app-store-prices.json","encodingFormat":"application/json","contentUrl":"https://gift-club.github.io/telegram-gifts-dataset/data/stars-app-store-prices.json"},{"@type":"DataDownload","name":"stars-fragment.json","encodingFormat":"application/json","contentUrl":"https://gift-club.github.io/telegram-gifts-dataset/data/stars-fragment.json"},{"@type":"DataDownload","name":"premium-app-store-prices.csv","encodingFormat":"text/csv","contentUrl":"https://gift-club.github.io/telegram-gifts-dataset/data/premium-app-store-prices.csv"},{"@type":"DataDownload","name":"premium-app-store-prices.json","encodingFormat":"application/json","contentUrl":"https://gift-club.github.io/telegram-gifts-dataset/data/premium-app-store-prices.json"},{"@type":"DataDownload","name":"premium-gift-prices.csv","encodingFormat":"text/csv","contentUrl":"https://gift-club.github.io/telegram-gifts-dataset/data/premium-gift-prices.csv"},{"@type":"DataDownload","name":"premium-gift-prices.json","encodingFormat":"application/json","contentUrl":"https://gift-club.github.io/telegram-gifts-dataset/data/premium-gift-prices.json"},{"@type":"DataDownload","name":"gift-collections.csv","encodingFormat":"text/csv","contentUrl":"https://gift-club.github.io/telegram-gifts-dataset/data/gift-collections.csv"},{"@type":"DataDownload","name":"gift-collections.json","encodingFormat":"application/json","contentUrl":"https://gift-club.github.io/telegram-gifts-dataset/data/gift-collections.json"},{"@type":"DataDownload","name":"limited-gifts.csv","encodingFormat":"text/csv","contentUrl":"https://gift-club.github.io/telegram-gifts-dataset/data/limited-gifts.csv"},{"@type":"DataDownload","name":"limited-gifts.json","encodingFormat":"application/json","contentUrl":"https://gift-club.github.io/telegram-gifts-dataset/data/limited-gifts.json"},{"@type":"DataDownload","name":"regular-gifts.csv","encodingFormat":"text/csv","contentUrl":"https://gift-club.github.io/telegram-gifts-dataset/data/regular-gifts.csv"},{"@type":"DataDownload","name":"regular-gifts.json","encodingFormat":"application/json","contentUrl":"https://gift-club.github.io/telegram-gifts-dataset/data/regular-gifts.json"},{"@type":"DataDownload","name":"fx-rates.json","encodingFormat":"application/json","contentUrl":"https://gift-club.github.io/telegram-gifts-dataset/data/fx-rates.json"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Telegram Hediyeleri ve Yıldızları Veri Seti","item":"https://gift-club.github.io/telegram-gifts-dataset/tr/"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Bu resmî bir Telegram veri seti mi?","acceptedAnswer":{"@type":"Answer","text":"Hayır. Gift Club, Telegram'ın herkese açık kaynaklarını (App Store, Fragment, Bot API ve herkese açık hediye kaydı) okur ve her rakamı tarihi ile kaynak bağlantısıyla kaydeder. Telegram böyle bir liste yayımlamaz."}},{"@type":"Question","name":"Verileri makalede, uygulamada ya da araştırmada kullanabilir miyim?","acceptedAnswer":{"@type":"Answer","text":"Evet. Veriler CC BY 4.0 lisanslıdır: Gift Club'a atıf yapıp bu veri setine bağlantı verdiğin sürece ticari olanlar dahil her yerde kullanabilirsin."}},{"@type":"Question","name":"Bir Telegram Yıldızı kaç dolar?","acceptedAnswer":{"@type":"Answer","text":"Fragment'te en az 50 Yıldız olmak üzere her miktarda $0,015; ABD App Store'da 100 Yıldızlık pakette yaklaşık $0,0199. Bir kanalın kazandığı Yıldız $0,013 olarak ödenir."}},{"@type":"Question","name":"Ne sıklıkla güncelleniyor?","acceptedAnswer":{"@type":"Answer","text":"Her tabloda okunduğu tarih yer alır. Bir fiyat ya da adet değiştiğinde satır kaynağından yeniden okunur ve tarih de onunla birlikte ilerler."}}]}</script>
+</head>
+<body>
+<header><div class="wrap">
+<a class="brand" href="/telegram-gifts-dataset/tr/"><img src="/telegram-gifts-dataset/logo-64.png" width="32" height="32" alt=""><span>Gift Club <em>Veri seti</em></span></a>
+<nav aria-label="Veri seti bölümleri"><ul><li><a href="/telegram-gifts-dataset/tr/" aria-current="page">Genel bakış</a></li><li><a href="/telegram-gifts-dataset/tr/stars-prices/">Yıldız fiyatları</a></li><li><a href="/telegram-gifts-dataset/tr/premium-prices/">Premium fiyatları</a></li><li><a href="/telegram-gifts-dataset/tr/gift-collections/">Hediye koleksiyonları</a></li><li><a href="/telegram-gifts-dataset/tr/limited-gifts/">Sınırlı hediyeler</a></li></ul></nav>
+</div></header>
+<main><div class="wrap">
+<h1>Telegram Hediyeleri ve Yıldızları Veri Seti</h1>
+<p class="lead">Telegram Yıldızları, Telegram Premium ve Telegram hediyeleri hakkında tarihli, kaynaklı rakamlar: CSV ve JSON olarak indirebilir, grafiğe dökebilir ya da kaynak gösterebilirsin.</p>
+<p class="meta">Veriler güncellendi: <time datetime="2026-11-08">2026-11-08</time></p>
+
+<div class="answer"><p>Fragment'te bir Telegram Yıldızı <strong>$0,015</strong> (1.000 Yıldız = $15,00), ABD App Store'da ise 1.000 Yıldız $19,99. Telegram Premium, incelenen 15 App Store ülkesi arasında en ucuz şurada: Endonezya (aylık Rp 59.000). 123 koleksiyon hediye koleksiyonunda toplam 1.493.721 parça var; en nadir olan Intelligence Cups koleksiyonunda 28 parça bulunuyor.</p></div>
+<h2>İçinde neler var</h2>
+<div class="cards"><a class="card" href="/telegram-gifts-dataset/tr/stars-prices/" style="text-decoration:none"><h3>Yıldız fiyatları</h3><p>18 ülkede 124 App Store paket fiyatı ve Fragment&#39;in sabit fiyatı.</p></a><a class="card" href="/telegram-gifts-dataset/tr/premium-prices/" style="text-decoration:none"><h3>Premium fiyatları</h3><p>15 App Store ülkesinde aylık ve yıllık Premium ile USD, Gram ve Yıldız cinsinden hediye fiyatları.</p></a><a class="card" href="/telegram-gifts-dataset/tr/gift-collections/" style="text-decoration:none"><h3>Hediye koleksiyonları</h3><p>Basım adedine göre tüm 123 koleksiyon ve 11 normal hediye.</p></a><a class="card" href="/telegram-gifts-dataset/tr/limited-gifts/" style="text-decoration:none"><h3>Sınırlı hediyeler</h3><p>Çıkış tarihi, Yıldız fiyatı ve basım sınırıyla 152 sınırlı ve sezonluk hediye.</p></a></div>
+<h2>Dosyaları indir</h2>
+<p>Bu sitedeki her tablo, deponun <code>data/</code> klasöründe bir dosyadır. Aşağıdaki bağlantılar her zaman en güncel sürümü verir.</p>
+<p><code>stars-app-store-prices</code> <a href="/telegram-gifts-dataset/data/stars-app-store-prices.csv" download>CSV</a> · <a href="/telegram-gifts-dataset/data/stars-app-store-prices.json" download>JSON</a><br><code>stars-fragment</code> <a href="/telegram-gifts-dataset/data/stars-fragment.json" download>JSON</a><br><code>premium-app-store-prices</code> <a href="/telegram-gifts-dataset/data/premium-app-store-prices.csv" download>CSV</a> · <a href="/telegram-gifts-dataset/data/premium-app-store-prices.json" download>JSON</a><br><code>premium-gift-prices</code> <a href="/telegram-gifts-dataset/data/premium-gift-prices.csv" download>CSV</a> · <a href="/telegram-gifts-dataset/data/premium-gift-prices.json" download>JSON</a><br><code>gift-collections</code> <a href="/telegram-gifts-dataset/data/gift-collections.csv" download>CSV</a> · <a href="/telegram-gifts-dataset/data/gift-collections.json" download>JSON</a><br><code>limited-gifts</code> <a href="/telegram-gifts-dataset/data/limited-gifts.csv" download>CSV</a> · <a href="/telegram-gifts-dataset/data/limited-gifts.json" download>JSON</a><br><code>regular-gifts</code> <a href="/telegram-gifts-dataset/data/regular-gifts.csv" download>CSV</a> · <a href="/telegram-gifts-dataset/data/regular-gifts.json" download>JSON</a><br><code>fx-rates</code> <a href="/telegram-gifts-dataset/data/fx-rates.json" download>JSON</a></p><p class="meta">CSV, başlık satırlı UTF-8'dir. JSON, aynı satırlardan oluşan bir dizidir.</p>
+<h2>Veriler nasıl toplanıyor</h2>
+<ul>
+<li><strong>Fiyatlar çevrilmez, okunur.</strong> Her App Store fiyatı, Apple'ın o ülkede Telegram'ın sayfasında o ülkenin para biriminde gösterdiği rakamdır; tarih <code>checked</code> sütunundadır.</li>
+<li><strong>Fragment</strong> (Telegram'ın kendi pazar yeri) fiyatları fragment.com'dan ABD doları olarak alınır.</li>
+<li>Koleksiyon hediyelerin <strong>basım adetleri</strong> Fragment'in hediye sayfalarından gelir. Bunlar okumadır: bir koleksiyonun adedi hâlâ artabilir.</li>
+<li><strong>Sınırlı hediyeler</strong>, 24 Ekim 2024'te başlayan herkese açık @GiftChanges kaydından gelir. Daha önce satılan hediyelerin çıkış tarihi yoktur.</li>
+<li>Dolar tahminleri (<code>*_usd_estimate</code>), <code>fx-rates.json</code> içindeki merkez bankası kurlarını kullanır, anlık kuru asla.</li>
+</ul>
+<h2>Nasıl kaynak gösterilir</h2>
+<p>Gift Club'ı an ve bu sayfaya bağlantı ver. Basit bir örnek:</p>
+<pre><code>Gift Club (2026). Telegram Gifts &amp; Stars Dataset (snapshot 2026-11-08). https://gift-club.github.io/telegram-gifts-dataset/</code></pre>
+<pre><code>@misc{giftclub_telegram_gifts_dataset,
+  author = {{Gift Club}},
+  title = {Telegram Gifts and Stars Dataset},
+  year = {2026},
+  note = {Snapshot 2026-11-08},
+  howpublished = {\url{https://gift-club.github.io/telegram-gifts-dataset/}}
+}</code></pre>
+<p>Telegram fiyatları hakkında mı yazıyorsun? Buradaki rakamlar <a href="https://giftclub.app/tr/">Gift Club</a> rehberlerini de besliyor.</p>
+<h2>Gift Club&#39;da okumaya devam et</h2>
+<ul><li><a href="https://giftclub.app/tr/telegram-gifts">Telegram Hediyeleri Listesi: Tüm Hediyeler, Fiyat ve ID</a></li><li><a href="https://giftclub.app/tr/blog/buy-telegram-stars">Telegram Yıldız Satın Alma: Nasıl Alınır, TL Fiyatı (2026)</a></li><li><a href="https://giftclub.app/tr/blog/telegram-premium-price">Telegram Premium Nasıl Alınır? Aylık ₺189,99 ve Fiyatlar</a></li></ul>
+<h2>Sorular</h2>
+<details><summary>Bu resmî bir Telegram veri seti mi?</summary><p>Hayır. Gift Club, Telegram'ın herkese açık kaynaklarını (App Store, Fragment, Bot API ve herkese açık hediye kaydı) okur ve her rakamı tarihi ile kaynak bağlantısıyla kaydeder. Telegram böyle bir liste yayımlamaz.</p></details>
+<details><summary>Verileri makalede, uygulamada ya da araştırmada kullanabilir miyim?</summary><p>Evet. Veriler CC BY 4.0 lisanslıdır: Gift Club'a atıf yapıp bu veri setine bağlantı verdiğin sürece ticari olanlar dahil her yerde kullanabilirsin.</p></details>
+<details><summary>Bir Telegram Yıldızı kaç dolar?</summary><p>Fragment'te en az 50 Yıldız olmak üzere her miktarda $0,015; ABD App Store'da 100 Yıldızlık pakette yaklaşık $0,0199. Bir kanalın kazandığı Yıldız $0,013 olarak ödenir.</p></details>
+<details><summary>Ne sıklıkla güncelleniyor?</summary><p>Her tabloda okunduğu tarih yer alır. Bir fiyat ya da adet değiştiğinde satır kaynağından yeniden okunur ve tarih de onunla birlikte ilerler.</p></details>
+
+</div></main>
+<footer><div class="wrap">
+<p class="langs" aria-label="Diller"><a href="/telegram-gifts-dataset/" hreflang="en" lang="en">English</a><a href="/telegram-gifts-dataset/ru/" hreflang="ru" lang="ru">Русский</a><a href="/telegram-gifts-dataset/uk/" hreflang="uk" lang="uk">Українська</a><a href="/telegram-gifts-dataset/es/" hreflang="es" lang="es">Español</a><a href="/telegram-gifts-dataset/pl/" hreflang="pl" lang="pl">Polski</a><a href="/telegram-gifts-dataset/it/" hreflang="it" lang="it">Italiano</a><a href="/telegram-gifts-dataset/tr/" hreflang="tr" lang="tr" aria-current="true">Türkçe</a><a href="/telegram-gifts-dataset/de/" hreflang="de" lang="de">Deutsch</a><a href="/telegram-gifts-dataset/fr/" hreflang="fr" lang="fr">Français</a></p>
+<p>Hediye kasaları ve oyunlar sunan Telegram Mini App'i <a href="https://giftclub.app/tr/">Gift Club</a> tarafından hazırlanan açık veri seti.</p>
+<p>Gift Club&#39;dan daha fazlası: <a href="/telegram-stars-calculator/tr/">Yıldız hesaplayıcı</a> · <a href="/provably-fair-verifier/tr/">Provably fair</a> · <a href="https://github.com/gift-club/telegram-gifts-dataset">Kaynak GitHub&#39;da</a></p>
+<p>Veriler <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> lisanslıdır: Gift Club'a atıf yapıp bu sayfaya bağlantı verdiğin sürece serbestçe kullanabilirsin.</p>
+</div></footer>
+</body>
+</html>

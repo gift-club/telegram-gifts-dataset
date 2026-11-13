@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Dataset regali e Stelle di Telegram: prezzi (CSV, JSON)</title>
+<meta name="description" content="Dataset aperto con i prezzi delle Stelle e di Premium di Telegram per paese, 123 collezioni di regali da collezione con le emissioni e 152 regali limitati. CSV e JSON, CC BY 4.0.">
+<link rel="canonical" href="https://gift-club.github.io/telegram-gifts-dataset/it/">
+<link rel="alternate" hreflang="en" href="https://gift-club.github.io/telegram-gifts-dataset/">
+<link rel="alternate" hreflang="ru" href="https://gift-club.github.io/telegram-gifts-dataset/ru/">
+<link rel="alternate" hreflang="uk" href="https://gift-club.github.io/telegram-gifts-dataset/uk/">
+<link rel="alternate" hreflang="es" href="https://gift-club.github.io/telegram-gifts-dataset/es/">
+<link rel="alternate" hreflang="pl" href="https://gift-club.github.io/telegram-gifts-dataset/pl/">
+<link rel="alternate" hreflang="it" href="https://gift-club.github.io/telegram-gifts-dataset/it/">
+<link rel="alternate" hreflang="tr" href="https://gift-club.github.io/telegram-gifts-dataset/tr/">
+<link rel="alternate" hreflang="de" href="https://gift-club.github.io/telegram-gifts-dataset/de/">
+<link rel="alternate" hreflang="fr" href="https://gift-club.github.io/telegram-gifts-dataset/fr/">
+<link rel="alternate" hreflang="x-default" href="https://gift-club.github.io/telegram-gifts-dataset/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Dataset dei regali e delle Stelle di Telegram">
+<meta property="og:title" content="Dataset regali e Stelle di Telegram: prezzi (CSV, JSON)">
+<meta property="og:description" content="Dataset aperto con i prezzi delle Stelle e di Premium di Telegram per paese, 123 collezioni di regali da collezione con le emissioni e 152 regali limitati. CSV e JSON, CC BY 4.0.">
+<meta property="og:url" content="https://gift-club.github.io/telegram-gifts-dataset/it/">
+<meta property="og:locale" content="it_IT">
+<meta name="twitter:card" content="summary">
+<meta name="theme-color" content="#0d0b14">
+<link rel="icon" href="/telegram-gifts-dataset/favicon.ico" sizes="any">
+<link rel="icon" type="image/png" sizes="32x32" href="/telegram-gifts-dataset/favicon-32.png">
+<link rel="icon" type="image/png" sizes="192x192" href="/telegram-gifts-dataset/icon-192.png">
+<link rel="apple-touch-icon" href="/telegram-gifts-dataset/apple-touch-icon.png">
+<style>:root{color-scheme:dark;--bg:#0d0b14;--panel:#17141f;--line:#2a2535;--ink:#f3f0fa;--muted:#a59fb5;--accent:#ffcf4a;--link:#8ec5ff}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.6 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+a{color:var(--link)}
+a:hover{text-decoration-thickness:2px}
+.wrap{max-width:860px;margin:0 auto;padding:0 16px}
+header{border-bottom:1px solid var(--line)}
+header .wrap{display:flex;flex-wrap:wrap;gap:8px 16px;align-items:center;justify-content:space-between;padding-top:14px;padding-bottom:14px}
+.brand{display:inline-flex;align-items:center;gap:10px;font-weight:700;color:var(--ink);text-decoration:none}
+.brand img{display:block;width:32px;height:32px;border-radius:8px}
+.brand em{font-style:normal;color:var(--accent)}
+nav ul{display:flex;flex-wrap:wrap;gap:6px 14px;list-style:none;margin:0;padding:0;font-size:15px}
+nav a{color:var(--muted);text-decoration:none}
+nav a[aria-current=page]{color:var(--ink);font-weight:600}
+main{padding:28px 0 40px}
+h1{font-size:clamp(28px,5vw,40px);line-height:1.15;margin:0 0 12px}
+h2{font-size:24px;line-height:1.25;margin:36px 0 10px}
+h3{font-size:19px;margin:24px 0 8px}
+.lead{font-size:18px;color:var(--ink)}
+.meta{color:var(--muted);font-size:14px}
+.answer{background:var(--panel);border:1px solid var(--line);border-left:4px solid var(--accent);border-radius:10px;padding:14px 16px;margin:18px 0}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px;margin:16px 0}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:14px 16px}
+.card h3{margin:0 0 6px;font-size:17px}
+.card p{margin:0;color:var(--muted);font-size:15px}
+.table-wrap{overflow-x:auto;margin:12px 0;border:1px solid var(--line);border-radius:10px}
+table{border-collapse:collapse;width:100%;font-size:15px}
+th,td{padding:8px 10px;border-bottom:1px solid var(--line);text-align:left;white-space:nowrap}
+pre,code{overflow-wrap:anywhere}
+pre{white-space:pre}
+th{background:var(--panel);position:sticky;top:0}
+td.num,th.num{text-align:right;font-variant-numeric:tabular-nums}
+tr:last-child td{border-bottom:0}
+caption{caption-side:top;text-align:left;padding:8px 10px;color:var(--muted);font-size:14px}
+code,pre{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:14px}
+code{background:var(--panel);padding:1px 5px;border-radius:5px}
+pre{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:12px 14px;overflow-x:auto}
+pre code{background:none;padding:0}
+details{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:10px 14px;margin:8px 0}
+summary{cursor:pointer;font-weight:600}
+.langs{display:flex;flex-wrap:wrap;gap:4px 12px;font-size:14px;color:var(--muted)}
+.langs a{color:var(--muted)}
+.langs a[aria-current=true]{color:var(--ink);font-weight:600;text-decoration:none}
+footer{border-top:1px solid var(--line);padding:24px 0 40px;color:var(--muted);font-size:14px}
+footer p{margin:6px 0}
+iframe{max-width:100%}</style>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Dataset","@id":"https://gift-club.github.io/telegram-gifts-dataset/#dataset","name":"Telegram Gifts and Stars Dataset","description":"Dataset aperto con i prezzi delle Stelle e di Premium di Telegram per paese, 123 collezioni di regali da collezione con le emissioni e 152 regali limitati. CSV e JSON, CC BY 4.0.","url":"https://gift-club.github.io/telegram-gifts-dataset/it/","inLanguage":"it","sameAs":"https://github.com/gift-club/telegram-gifts-dataset","license":"https://creativecommons.org/licenses/by/4.0/","isAccessibleForFree":true,"creator":{"@type":"Organization","@id":"https://giftclub.app/#organization","name":"Gift Club","url":"https://giftclub.app/","sameAs":["https://github.com/gift-club","https://gift-club.github.io/"]},"publisher":{"@type":"Organization","@id":"https://giftclub.app/#organization","name":"Gift Club","url":"https://giftclub.app/","sameAs":["https://github.com/gift-club","https://gift-club.github.io/"]},"keywords":["Stelle di Telegram","Telegram Premium","regali di Telegram","Fragment","App Store","dataset","CSV","JSON"],"dateModified":"2026-11-08","temporalCoverage":"2024-10-24/2026-11-08","distribution":[{"@type":"DataDownload","name":"stars-app-store-prices.csv","encodingFormat":"text/csv","contentUrl":"https://gift-club.github.io/telegram-gifts-dataset/data/stars-app-store-prices.csv"},{"@type":"DataDownload","name":"stars-app-store-prices.json","encodingFormat":"application/json","contentUrl":"https://gift-club.github.io/telegram-gifts-dataset/data/stars-app-store-prices.json"},{"@type":"DataDownload","name":"stars-fragment.json","encodingFormat":"application/json","contentUrl":"https://gift-club.github.io/telegram-gifts-dataset/data/stars-fragment.json"},{"@type":"DataDownload","name":"premium-app-store-prices.csv","encodingFormat":"text/csv","contentUrl":"https://gift-club.github.io/telegram-gifts-dataset/data/premium-app-store-prices.csv"},{"@type":"DataDownload","name":"premium-app-store-prices.json","encodingFormat":"application/json","contentUrl":"https://gift-club.github.io/telegram-gifts-dataset/data/premium-app-store-prices.json"},{"@type":"DataDownload","name":"premium-gift-prices.csv","encodingFormat":"text/csv","contentUrl":"https://gift-club.github.io/telegram-gifts-dataset/data/premium-gift-prices.csv"},{"@type":"DataDownload","name":"premium-gift-prices.json","encodingFormat":"application/json","contentUrl":"https://gift-club.github.io/telegram-gifts-dataset/data/premium-gift-prices.json"},{"@type":"DataDownload","name":"gift-collections.csv","encodingFormat":"text/csv","contentUrl":"https://gift-club.github.io/telegram-gifts-dataset/data/gift-collections.csv"},{"@type":"DataDownload","name":"gift-collections.json","encodingFormat":"application/json","contentUrl":"https://gift-club.github.io/telegram-gifts-dataset/data/gift-collections.json"},{"@type":"DataDownload","name":"limited-gifts.csv","encodingFormat":"text/csv","contentUrl":"https://gift-club.github.io/telegram-gifts-dataset/data/limited-gifts.csv"},{"@type":"DataDownload","name":"limited-gifts.json","encodingFormat":"application/json","contentUrl":"https://gift-club.github.io/telegram-gifts-dataset/data/limited-gifts.json"},{"@type":"DataDownload","name":"regular-gifts.csv","encodingFormat":"text/csv","contentUrl":"https://gift-club.github.io/telegram-gifts-dataset/data/regular-gifts.csv"},{"@type":"DataDownload","name":"regular-gifts.json","encodingFormat":"application/json","contentUrl":"https://gift-club.github.io/telegram-gifts-dataset/data/regular-gifts.json"},{"@type":"DataDownload","name":"fx-rates.json","encodingFormat":"application/json","contentUrl":"https://gift-club.github.io/telegram-gifts-dataset/data/fx-rates.json"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Dataset dei regali e delle Stelle di Telegram","item":"https://gift-club.github.io/telegram-gifts-dataset/it/"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"È un dataset ufficiale di Telegram?","acceptedAnswer":{"@type":"Answer","text":"No. Gift Club legge le fonti pubbliche di Telegram (l'App Store, Fragment, la Bot API e il registro pubblico dei regali) e annota ogni cifra con data e link alla fonte. Telegram non pubblica un elenco del genere."}},{"@type":"Question","name":"Posso usare i dati in un articolo, in un'app o in una ricerca?","acceptedAnswer":{"@type":"Answer","text":"Sì. I dati sono CC BY 4.0: riutilizzali ovunque, anche a fini commerciali, purché citi Gift Club e linki questo dataset."}},{"@type":"Question","name":"Quanto costa in dollari una Stella di Telegram?","acceptedAnswer":{"@type":"Answer","text":"0,015 USD su Fragment per qualsiasi quantità da 50 Stelle, e circa 0,0199 USD in un pacchetto da 100 Stelle nell'App Store statunitense. Una Stella guadagnata da un canale viene pagata 0,013 USD."}},{"@type":"Question","name":"Ogni quanto viene aggiornato?","acceptedAnswer":{"@type":"Answer","text":"Ogni tabella riporta la data in cui è stata letta. Quando cambia un prezzo o un numero, la riga viene riletta alla fonte e la data si sposta con lei."}}]}</script>
+</head>
+<body>
+<header><div class="wrap">
+<a class="brand" href="/telegram-gifts-dataset/it/"><img src="/telegram-gifts-dataset/logo-64.png" width="32" height="32" alt=""><span>Gift Club <em>Dataset</em></span></a>
+<nav aria-label="Sezioni del dataset"><ul><li><a href="/telegram-gifts-dataset/it/" aria-current="page">Panoramica</a></li><li><a href="/telegram-gifts-dataset/it/stars-prices/">Prezzi delle Stelle</a></li><li><a href="/telegram-gifts-dataset/it/premium-prices/">Prezzi di Premium</a></li><li><a href="/telegram-gifts-dataset/it/gift-collections/">Collezioni di regali</a></li><li><a href="/telegram-gifts-dataset/it/limited-gifts/">Regali limitati</a></li></ul></nav>
+</div></header>
+<main><div class="wrap">
+<h1>Dataset dei regali e delle Stelle di Telegram</h1>
+<p class="lead">Cifre datate e con fonte su Stelle, Telegram Premium e regali di Telegram, in CSV e JSON da scaricare, rappresentare in grafici o citare.</p>
+<p class="meta">Dati aggiornati: <time datetime="2026-11-08">2026-11-08</time></p>
+
+<div class="answer"><p>Su Fragment una Stella di Telegram costa <strong>0,015 USD</strong> (1000 Stelle = 15,00 USD); nell'App Store statunitense 1000 Stelle costano 19,99 USD. Telegram Premium costa meno qui: Indonesia (Rp 59.000 al mese), tra i 15 paesi dell'App Store letti. 123 collezioni di regali da collezione contano 1.493.721 pezzi; la più rara, Intelligence Cups, ne ha 28.</p></div>
+<h2>Cosa contiene</h2>
+<div class="cards"><a class="card" href="/telegram-gifts-dataset/it/stars-prices/" style="text-decoration:none"><h3>Prezzi delle Stelle</h3><p>124 prezzi dei pacchetti dell&#39;App Store in 18 paesi, più la tariffa fissa di Fragment.</p></a><a class="card" href="/telegram-gifts-dataset/it/premium-prices/" style="text-decoration:none"><h3>Prezzi di Premium</h3><p>Premium mensile e annuale in 15 paesi dell&#39;App Store e prezzi dei regali in USD, Gram e Stelle.</p></a><a class="card" href="/telegram-gifts-dataset/it/gift-collections/" style="text-decoration:none"><h3>Collezioni di regali</h3><p>Tutte le 123 collezioni da collezione per emissione e i 11 regali normali.</p></a><a class="card" href="/telegram-gifts-dataset/it/limited-gifts/" style="text-decoration:none"><h3>Regali limitati</h3><p>152 regali limitati e stagionali con data di uscita, prezzo in Stelle e tetto di emissione.</p></a></div>
+<h2>Scarica i file</h2>
+<p>Ogni tabella di questo sito è un file nella cartella <code>data/</code> del repository. I link qui sotto servono sempre l'ultima versione.</p>
+<p><code>stars-app-store-prices</code> <a href="/telegram-gifts-dataset/data/stars-app-store-prices.csv" download>CSV</a> · <a href="/telegram-gifts-dataset/data/stars-app-store-prices.json" download>JSON</a><br><code>stars-fragment</code> <a href="/telegram-gifts-dataset/data/stars-fragment.json" download>JSON</a><br><code>premium-app-store-prices</code> <a href="/telegram-gifts-dataset/data/premium-app-store-prices.csv" download>CSV</a> · <a href="/telegram-gifts-dataset/data/premium-app-store-prices.json" download>JSON</a><br><code>premium-gift-prices</code> <a href="/telegram-gifts-dataset/data/premium-gift-prices.csv" download>CSV</a> · <a href="/telegram-gifts-dataset/data/premium-gift-prices.json" download>JSON</a><br><code>gift-collections</code> <a href="/telegram-gifts-dataset/data/gift-collections.csv" download>CSV</a> · <a href="/telegram-gifts-dataset/data/gift-collections.json" download>JSON</a><br><code>limited-gifts</code> <a href="/telegram-gifts-dataset/data/limited-gifts.csv" download>CSV</a> · <a href="/telegram-gifts-dataset/data/limited-gifts.json" download>JSON</a><br><code>regular-gifts</code> <a href="/telegram-gifts-dataset/data/regular-gifts.csv" download>CSV</a> · <a href="/telegram-gifts-dataset/data/regular-gifts.json" download>JSON</a><br><code>fx-rates</code> <a href="/telegram-gifts-dataset/data/fx-rates.json" download>JSON</a></p><p class="meta">Il CSV è in UTF-8 con riga di intestazione. Il JSON è un array con le stesse righe.</p>
+<h2>Come vengono raccolti i dati</h2>
+<ul>
+<li><strong>I prezzi vengono letti, non convertiti.</strong> Ogni prezzo dell'App Store è la cifra che Apple mostra nella scheda di Telegram in quel paese, nella valuta di quel paese, alla data della colonna <code>checked</code>.</li>
+<li>I prezzi di <strong>Fragment</strong> (il marketplace di Telegram) vengono da fragment.com in dollari statunitensi.</li>
+<li>Le <strong>emissioni</strong> dei regali da collezione vengono dalle pagine dei regali di Fragment. Sono letture: il numero di una collezione può ancora crescere.</li>
+<li>I <strong>regali limitati</strong> vengono dal registro pubblico @GiftChanges, iniziato il 24 ottobre 2024. I regali venduti prima non hanno data di uscita.</li>
+<li>Le stime in dollari (<code>*_usd_estimate</code>) usano i cambi delle banche centrali in <code>fx-rates.json</code>, mai un cambio in tempo reale.</li>
+</ul>
+<h2>Come citare</h2>
+<p>Cita Gift Club e linka questa pagina. Una citazione semplice:</p>
+<pre><code>Gift Club (2026). Telegram Gifts &amp; Stars Dataset (snapshot 2026-11-08). https://gift-club.github.io/telegram-gifts-dataset/</code></pre>
+<pre><code>@misc{giftclub_telegram_gifts_dataset,
+  author = {{Gift Club}},
+  title = {Telegram Gifts and Stars Dataset},
+  year = {2026},
+  note = {Snapshot 2026-11-08},
+  howpublished = {\url{https://gift-club.github.io/telegram-gifts-dataset/}}
+}</code></pre>
+<p>Scrivi dei prezzi di Telegram? Queste stesse cifre alimentano le guide di <a href="https://giftclub.app/it/">Gift Club</a>.</p>
+<h2>Continua a leggere su Gift Club</h2>
+<ul><li><a href="https://giftclub.app/it/telegram-gifts">Regali Telegram: elenco completo, prezzi e ID</a></li><li><a href="https://giftclub.app/it/blog/buy-telegram-stars">Comprare stelle Telegram: dove costano meno (2026)</a></li><li><a href="https://giftclub.app/it/blog/telegram-premium-price">Telegram Premium prezzo: 4,49 € al mese in Italia (2026)</a></li></ul>
+<h2>Domande</h2>
+<details><summary>È un dataset ufficiale di Telegram?</summary><p>No. Gift Club legge le fonti pubbliche di Telegram (l'App Store, Fragment, la Bot API e il registro pubblico dei regali) e annota ogni cifra con data e link alla fonte. Telegram non pubblica un elenco del genere.</p></details>
+<details><summary>Posso usare i dati in un articolo, in un&#39;app o in una ricerca?</summary><p>Sì. I dati sono CC BY 4.0: riutilizzali ovunque, anche a fini commerciali, purché citi Gift Club e linki questo dataset.</p></details>
+<details><summary>Quanto costa in dollari una Stella di Telegram?</summary><p>0,015 USD su Fragment per qualsiasi quantità da 50 Stelle, e circa 0,0199 USD in un pacchetto da 100 Stelle nell'App Store statunitense. Una Stella guadagnata da un canale viene pagata 0,013 USD.</p></details>
+<details><summary>Ogni quanto viene aggiornato?</summary><p>Ogni tabella riporta la data in cui è stata letta. Quando cambia un prezzo o un numero, la riga viene riletta alla fonte e la data si sposta con lei.</p></details>
+
+</div></main>
+<footer><div class="wrap">
+<p class="langs" aria-label="Lingue"><a href="/telegram-gifts-dataset/" hreflang="en" lang="en">English</a><a href="/telegram-gifts-dataset/ru/" hreflang="ru" lang="ru">Русский</a><a href="/telegram-gifts-dataset/uk/" hreflang="uk" lang="uk">Українська</a><a href="/telegram-gifts-dataset/es/" hreflang="es" lang="es">Español</a><a href="/telegram-gifts-dataset/pl/" hreflang="pl" lang="pl">Polski</a><a href="/telegram-gifts-dataset/it/" hreflang="it" lang="it" aria-current="true">Italiano</a><a href="/telegram-gifts-dataset/tr/" hreflang="tr" lang="tr">Türkçe</a><a href="/telegram-gifts-dataset/de/" hreflang="de" lang="de">Deutsch</a><a href="/telegram-gifts-dataset/fr/" hreflang="fr" lang="fr">Français</a></p>
+<p>Un dataset aperto di <a href="https://giftclub.app/it/">Gift Club</a>, la Mini App di Telegram con casse regalo e giochi.</p>
+<p>Altro da Gift Club: <a href="/telegram-stars-calculator/it/">Calcolatore di Stelle</a> · <a href="/provably-fair-verifier/it/">Provably fair</a> · <a href="https://github.com/gift-club/telegram-gifts-dataset">Sorgente su GitHub</a></p>
+<p>Dati con licenza <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>: puoi riutilizzarli liberamente, citando Gift Club e linkando questa pagina.</p>
+</div></footer>
+</body>
+</html>

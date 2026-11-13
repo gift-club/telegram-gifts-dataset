@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "Telegram Gifts and Stars Dataset"
+abstract: "Dated, sourced figures on Telegram Stars and Telegram Premium prices by country, collectible gift collections with issued counts, and limited gifts with release dates and supply caps."
+authors:
+  - name: "Gift Club"
+    website: "https://giftclub.app/"
+date-released: 2026-11-11
+version: "2026.11.11"
+license: CC-BY-4.0
+url: "https://gift-club.github.io/telegram-gifts-dataset/"
+repository: "https://github.com/gift-club/telegram-gifts-dataset"
+keywords:
+  - Telegram
+  - Telegram Stars
+  - Telegram Premium
+  - Telegram Gifts
+  - Fragment
+  - dataset

@@ -1,0 +1,16 @@
+store,country,currency,monthly,monthly_as_printed,annual,annual_as_printed,prepaid_3_months_as_printed,monthly_usd_estimate,annual_usd_estimate,checked,source
+us,United States,USD,4.99,$4.99,35.99,$35.99,,4.99,35.99,2026-10-28,https://apps.apple.com/us/app/telegram-messenger/id686449807
+gb,United Kingdom,GBP,4.99,£4.99,,,,6.66,,2026-10-28,https://apps.apple.com/gb/app/telegram-messenger/id686449807
+de,Germany,EUR,5.49,"5,49 €",39.99,"39,99 €",,6.14,44.74,2026-10-28,https://apps.apple.com/de/app/telegram-messenger/id686449807
+fr,France,EUR,5.49,"5,49 €",,,,6.14,,2026-10-28,https://apps.apple.com/fr/app/telegram-messenger/id686449807
+es,Spain,EUR,4.49,"4,49 €",33.99,"33,99 €",,5.02,38.03,2026-10-28,https://apps.apple.com/es/app/telegram-messenger/id686449807
+it,Italy,EUR,4.49,"4,49 €",33.99,"33,99 €",,5.02,38.03,2026-10-28,https://apps.apple.com/it/app/telegram-messenger/id686449807
+pl,Poland,PLN,17.99,"17,99 zł",149.99,"149,99 zł","69,99 zł",4.55,37.93,2026-10-28,https://apps.apple.com/pl/app/telegram-messenger/id686449807
+tr,Türkiye,TRY,189.99,"₺189,99",1359.99,"₺1.359,99",,3.82,27.35,2026-10-28,https://apps.apple.com/tr/app/telegram-messenger/id686449807
+ru,russia,RUB,329,329 ₽,2390,2 390 ₽,1 290 ₽,4.09,29.68,2026-10-28,https://apps.apple.com/ru/app/telegram-messenger/id686449807
+ua,Ukraine,USD,3.99,"3,99 USD",29.99,"29,99 USD","17,99 USD",3.99,29.99,2026-10-28,https://apps.apple.com/ua/app/telegram-messenger/id686449807
+kz,Kazakhstan,KZT,1790,1 790 ₸,13490,13 490 ₸,8 990 ₸,3.97,29.91,2026-10-28,https://apps.apple.com/kz/app/telegram-messenger/id686449807
+in,India,INR,319,₹319,2399,"₹2,399",,3.35,25.21,2026-10-28,https://apps.apple.com/in/app/telegram-messenger/id686449807
+br,Brazil,BRL,19.9,"R$ 19,90",149.9,"R$ 149,90",,3.62,27.25,2026-10-28,https://apps.apple.com/br/app/telegram-messenger/id686449807
+mx,Mexico,MXN,74,$74.00,559,$559.00,,3.97,30,2026-10-28,https://apps.apple.com/mx/app/telegram-messenger/id686449807
+id,Indonesia,IDR,59000,Rp 59.000,449000,Rp 449.000,Rp 299.000,3.26,24.78,2026-10-28,https://apps.apple.com/id/app/telegram-messenger/id686449807

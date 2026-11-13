@@ -1,0 +1,68 @@
+[
+  {
+    "id": "5170145012310081615",
+    "name": "Love Heart",
+    "stars": 15,
+    "checked": "2026-08-20"
+  },
+  {
+    "id": "5170233102089322756",
+    "name": "Teddy Bear",
+    "stars": 15,
+    "checked": "2026-08-20"
+  },
+  {
+    "id": "5170250947678437525",
+    "name": "Gift Box",
+    "stars": 25,
+    "checked": "2026-08-20"
+  },
+  {
+    "id": "5168103777563050263",
+    "name": "Red Rose",
+    "stars": 25,
+    "checked": "2026-08-20"
+  },
+  {
+    "id": "5170144170496491616",
+    "name": "Birthday Cake",
+    "stars": 50,
+    "checked": "2026-08-20"
+  },
+  {
+    "id": "5170314324215857265",
+    "name": "Bouquet of Flowers",
+    "stars": 50,
+    "checked": "2026-08-20"
+  },
+  {
+    "id": "5170564780938756245",
+    "name": "Rocket",
+    "stars": 50,
+    "checked": "2026-08-20"
+  },
+  {
+    "id": "6028601630662853006",
+    "name": "Champagne Bottle",
+    "stars": 50,
+    "checked": "2026-08-20"
+  },
+  {
+    "id": "5168043875654172773",
+    "name": "Trophy",
+    "stars": 100,
+    "checked": "2026-08-20"
+  },
+  {
+    "id": "5170690322832818290",
+    "name": "Diamond Ring",
+    "stars": 100,
+    "checked": "2026-08-20"
+  },
+  {
+    "id": "5170521118301225164",
+    "name": "Gem",
+    "stars": 100,
+    "checked": "2026-08-20"
+  }
+]

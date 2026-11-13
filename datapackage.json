@@ -1,0 +1,272 @@
+{
+  "name": "telegram-gifts-dataset",
+  "title": "Telegram Gifts and Stars Dataset",
+  "homepage": "https://gift-club.github.io/telegram-gifts-dataset/",
+  "version": "2026.11.11",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/",
+      "title": "Creative Commons Attribution 4.0"
+    }
+  ],
+  "contributors": [
+    {
+      "title": "Gift Club",
+      "path": "https://giftclub.app/",
+      "role": "author"
+    }
+  ],
+  "resources": [
+    {
+      "name": "gift-collections",
+      "path": "data/gift-collections.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "rank",
+            "type": "number"
+          },
+          {
+            "name": "slug",
+            "type": "string"
+          },
+          {
+            "name": "name",
+            "type": "string"
+          },
+          {
+            "name": "issued",
+            "type": "number"
+          },
+          {
+            "name": "fragment_url",
+            "type": "string"
+          },
+          {
+            "name": "captured",
+            "type": "date"
+          }
+        ]
+      }
+    },
+    {
+      "name": "limited-gifts",
+      "path": "data/limited-gifts.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "string"
+          },
+          {
+            "name": "name",
+            "type": "string"
+          },
+          {
+            "name": "release_date",
+            "type": "date"
+          },
+          {
+            "name": "stars",
+            "type": "number"
+          },
+          {
+            "name": "supply",
+            "type": "number"
+          },
+          {
+            "name": "drop",
+            "type": "string"
+          },
+          {
+            "name": "premium_only",
+            "type": "boolean"
+          },
+          {
+            "name": "auction",
+            "type": "boolean"
+          },
+          {
+            "name": "captured",
+            "type": "date"
+          }
+        ]
+      }
+    },
+    {
+      "name": "premium-app-store-prices",
+      "path": "data/premium-app-store-prices.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "store",
+            "type": "string"
+          },
+          {
+            "name": "country",
+            "type": "string"
+          },
+          {
+            "name": "currency",
+            "type": "string"
+          },
+          {
+            "name": "monthly",
+            "type": "number"
+          },
+          {
+            "name": "monthly_as_printed",
+            "type": "string"
+          },
+          {
+            "name": "annual",
+            "type": "number"
+          },
+          {
+            "name": "annual_as_printed",
+            "type": "string"
+          },
+          {
+            "name": "prepaid_3_months_as_printed",
+            "type": "string"
+          },
+          {
+            "name": "monthly_usd_estimate",
+            "type": "number"
+          },
+          {
+            "name": "annual_usd_estimate",
+            "type": "number"
+          },
+          {
+            "name": "checked",
+            "type": "date"
+          },
+          {
+            "name": "source",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "name": "premium-gift-prices",
+      "path": "data/premium-gift-prices.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "months",
+            "type": "number"
+          },
+          {
+            "name": "fragment_usd",
+            "type": "number"
+          },
+          {
+            "name": "fragment_gram",
+            "type": "number"
+          },
+          {
+            "name": "telegram_stars",
+            "type": "number"
+          },
+          {
+            "name": "checked",
+            "type": "date"
+          },
+          {
+            "name": "fragment_source",
+            "type": "string"
+          },
+          {
+            "name": "stars_source",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "name": "regular-gifts",
+      "path": "data/regular-gifts.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "string"
+          },
+          {
+            "name": "name",
+            "type": "string"
+          },
+          {
+            "name": "stars",
+            "type": "number"
+          },
+          {
+            "name": "checked",
+            "type": "date"
+          }
+        ]
+      }
+    },
+    {
+      "name": "stars-app-store-prices",
+      "path": "data/stars-app-store-prices.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "store",
+            "type": "string"
+          },
+          {
+            "name": "country",
+            "type": "string"
+          },
+          {
+            "name": "currency",
+            "type": "string"
+          },
+          {
+            "name": "stars",
+            "type": "number"
+          },
+          {
+            "name": "price",
+            "type": "number"
+          },
+          {
+            "name": "price_per_star",
+            "type": "number"
+          },
+          {
+            "name": "checked",
+            "type": "date"
+          },
+          {
+            "name": "source",
+            "type": "string"
+          }
+        ]
+      }
+    }
+  ]
+}

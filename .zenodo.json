@@ -1,0 +1,12 @@
+{
+  "title": "Telegram Gifts and Stars Dataset",
+  "upload_type": "dataset",
+  "description": "<p>Dated, sourced figures on Telegram Stars and Telegram Premium prices by country, every collectible gift collection with its issued count, and limited gifts with release dates and supply caps. CSV and JSON.</p><p>Browse: <a href=\"https://gift-club.github.io/telegram-gifts-dataset/\">gift-club.github.io/telegram-gifts-dataset</a>. Made by <a href=\"https://giftclub.app/\">Gift Club</a>.</p>",
+  "creators": [{ "name": "Gift Club" }],
+  "license": "cc-by-4.0",
+  "keywords": ["Telegram", "Telegram Stars", "Telegram Premium", "Telegram Gifts", "Fragment", "App Store prices"],
+  "related_identifiers": [
+    { "identifier": "https://gift-club.github.io/telegram-gifts-dataset/", "relation": "isDocumentedBy", "scheme": "url" },
+    { "identifier": "https://giftclub.app/telegram-statistics", "relation": "isSupplementTo", "scheme": "url" }
+  ]
+}

@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Prix de Telegram Premium par pays : données App Store (CSV)</title>
+<meta name="description" content="Prix mensuels et annuels de Telegram Premium dans 15 pays de l&#39;App Store, plus les prix des cadeaux sur Fragment et en Étoiles. CSV et JSON, datés et sourcés.">
+<link rel="canonical" href="https://gift-club.github.io/telegram-gifts-dataset/fr/premium-prices/">
+<link rel="alternate" hreflang="en" href="https://gift-club.github.io/telegram-gifts-dataset/premium-prices/">
+<link rel="alternate" hreflang="ru" href="https://gift-club.github.io/telegram-gifts-dataset/ru/premium-prices/">
+<link rel="alternate" hreflang="uk" href="https://gift-club.github.io/telegram-gifts-dataset/uk/premium-prices/">
+<link rel="alternate" hreflang="es" href="https://gift-club.github.io/telegram-gifts-dataset/es/premium-prices/">
+<link rel="alternate" hreflang="pl" href="https://gift-club.github.io/telegram-gifts-dataset/pl/premium-prices/">
+<link rel="alternate" hreflang="it" href="https://gift-club.github.io/telegram-gifts-dataset/it/premium-prices/">
+<link rel="alternate" hreflang="tr" href="https://gift-club.github.io/telegram-gifts-dataset/tr/premium-prices/">
+<link rel="alternate" hreflang="de" href="https://gift-club.github.io/telegram-gifts-dataset/de/premium-prices/">
+<link rel="alternate" hreflang="fr" href="https://gift-club.github.io/telegram-gifts-dataset/fr/premium-prices/">
+<link rel="alternate" hreflang="x-default" href="https://gift-club.github.io/telegram-gifts-dataset/premium-prices/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Jeu de données des cadeaux et Étoiles Telegram">
+<meta property="og:title" content="Prix de Telegram Premium par pays : données App Store (CSV)">
+<meta property="og:description" content="Prix mensuels et annuels de Telegram Premium dans 15 pays de l&#39;App Store, plus les prix des cadeaux sur Fragment et en Étoiles. CSV et JSON, datés et sourcés.">
+<meta property="og:url" content="https://gift-club.github.io/telegram-gifts-dataset/fr/premium-prices/">
+<meta property="og:locale" content="fr_FR">
+<meta name="twitter:card" content="summary">
+<meta name="theme-color" content="#0d0b14">
+<link rel="icon" href="/telegram-gifts-dataset/favicon.ico" sizes="any">
+<link rel="icon" type="image/png" sizes="32x32" href="/telegram-gifts-dataset/favicon-32.png">
+<link rel="icon" type="image/png" sizes="192x192" href="/telegram-gifts-dataset/icon-192.png">
+<link rel="apple-touch-icon" href="/telegram-gifts-dataset/apple-touch-icon.png">
+<style>:root{color-scheme:dark;--bg:#0d0b14;--panel:#17141f;--line:#2a2535;--ink:#f3f0fa;--muted:#a59fb5;--accent:#ffcf4a;--link:#8ec5ff}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.6 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+a{color:var(--link)}
+a:hover{text-decoration-thickness:2px}
+.wrap{max-width:860px;margin:0 auto;padding:0 16px}
+header{border-bottom:1px solid var(--line)}
+header .wrap{display:flex;flex-wrap:wrap;gap:8px 16px;align-items:center;justify-content:space-between;padding-top:14px;padding-bottom:14px}
+.brand{display:inline-flex;align-items:center;gap:10px;font-weight:700;color:var(--ink);text-decoration:none}
+.brand img{display:block;width:32px;height:32px;border-radius:8px}
+.brand em{font-style:normal;color:var(--accent)}
+nav ul{display:flex;flex-wrap:wrap;gap:6px 14px;list-style:none;margin:0;padding:0;font-size:15px}
+nav a{color:var(--muted);text-decoration:none}
+nav a[aria-current=page]{color:var(--ink);font-weight:600}
+main{padding:28px 0 40px}
+h1{font-size:clamp(28px,5vw,40px);line-height:1.15;margin:0 0 12px}
+h2{font-size:24px;line-height:1.25;margin:36px 0 10px}
+h3{font-size:19px;margin:24px 0 8px}
+.lead{font-size:18px;color:var(--ink)}
+.meta{color:var(--muted);font-size:14px}
+.answer{background:var(--panel);border:1px solid var(--line);border-left:4px solid var(--accent);border-radius:10px;padding:14px 16px;margin:18px 0}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px;margin:16px 0}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:14px 16px}
+.card h3{margin:0 0 6px;font-size:17px}
+.card p{margin:0;color:var(--muted);font-size:15px}
+.table-wrap{overflow-x:auto;margin:12px 0;border:1px solid var(--line);border-radius:10px}
+table{border-collapse:collapse;width:100%;font-size:15px}
+th,td{padding:8px 10px;border-bottom:1px solid var(--line);text-align:left;white-space:nowrap}
+pre,code{overflow-wrap:anywhere}
+pre{white-space:pre}
+th{background:var(--panel);position:sticky;top:0}
+td.num,th.num{text-align:right;font-variant-numeric:tabular-nums}
+tr:last-child td{border-bottom:0}
+caption{caption-side:top;text-align:left;padding:8px 10px;color:var(--muted);font-size:14px}
+code,pre{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:14px}
+code{background:var(--panel);padding:1px 5px;border-radius:5px}
+pre{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:12px 14px;overflow-x:auto}
+pre code{background:none;padding:0}
+details{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:10px 14px;margin:8px 0}
+summary{cursor:pointer;font-weight:600}
+.langs{display:flex;flex-wrap:wrap;gap:4px 12px;font-size:14px;color:var(--muted)}
+.langs a{color:var(--muted)}
+.langs a[aria-current=true]{color:var(--ink);font-weight:600;text-decoration:none}
+footer{border-top:1px solid var(--line);padding:24px 0 40px;color:var(--muted);font-size:14px}
+footer p{margin:6px 0}
+iframe{max-width:100%}</style>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Dataset","@id":"https://gift-club.github.io/telegram-gifts-dataset/premium-prices/#dataset","name":"Telegram Premium prices by country","description":"Prix mensuels et annuels de Telegram Premium dans 15 pays de l'App Store, plus les prix des cadeaux sur Fragment et en Étoiles. CSV et JSON, datés et sourcés.","url":"https://gift-club.github.io/telegram-gifts-dataset/fr/premium-prices/","inLanguage":"fr","sameAs":"https://github.com/gift-club/telegram-gifts-dataset","license":"https://creativecommons.org/licenses/by/4.0/","isAccessibleForFree":true,"creator":{"@type":"Organization","@id":"https://giftclub.app/#organization","name":"Gift Club","url":"https://giftclub.app/","sameAs":["https://github.com/gift-club","https://gift-club.github.io/"]},"publisher":{"@type":"Organization","@id":"https://giftclub.app/#organization","name":"Gift Club","url":"https://giftclub.app/","sameAs":["https://github.com/gift-club","https://gift-club.github.io/"]},"keywords":["prix Telegram Premium","Telegram Premium par pays","App Store","Fragment","CSV"],"dateModified":"2026-10-28","distribution":[{"@type":"DataDownload","name":"premium-app-store-prices.csv","encodingFormat":"text/csv","contentUrl":"https://gift-club.github.io/telegram-gifts-dataset/data/premium-app-store-prices.csv"},{"@type":"DataDownload","name":"premium-app-store-prices.json","encodingFormat":"application/json","contentUrl":"https://gift-club.github.io/telegram-gifts-dataset/data/premium-app-store-prices.json"},{"@type":"DataDownload","name":"premium-gift-prices.csv","encodingFormat":"text/csv","contentUrl":"https://gift-club.github.io/telegram-gifts-dataset/data/premium-gift-prices.csv"},{"@type":"DataDownload","name":"premium-gift-prices.json","encodingFormat":"application/json","contentUrl":"https://gift-club.github.io/telegram-gifts-dataset/data/premium-gift-prices.json"},{"@type":"DataDownload","name":"fx-rates.json","encodingFormat":"application/json","contentUrl":"https://gift-club.github.io/telegram-gifts-dataset/data/fx-rates.json"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Jeu de données des cadeaux et Étoiles Telegram","item":"https://gift-club.github.io/telegram-gifts-dataset/fr/"},{"@type":"ListItem","position":2,"name":"Prix de Premium","item":"https://gift-club.github.io/telegram-gifts-dataset/fr/premium-prices/"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Dans quel pays Telegram Premium est-il le moins cher ?","acceptedAnswer":{"@type":"Answer","text":"Parmi les pays de ce dataset : Indonésie, à Rp 59.000 par mois (environ 3,26 $US)."}},{"@type":"Question","name":"Combien d'Étoiles coûte un cadeau Premium ?","acceptedAnswer":{"@type":"Answer","text":"1 000 Étoiles pour 3 mois et 2 500 pour 12 mois, fixées par Telegram."}},{"@type":"Question","name":"Pourquoi n'y a-t-il pas de colonne Google Play ?","acceptedAnswer":{"@type":"Answer","text":"Google Play n'affiche les prix que dans l'appli, sur un appareil connecté : il n'existe donc aucune page publique à lire et à citer."}}]}</script>
+</head>
+<body>
+<header><div class="wrap">
+<a class="brand" href="/telegram-gifts-dataset/fr/"><img src="/telegram-gifts-dataset/logo-64.png" width="32" height="32" alt=""><span>Gift Club <em>Dataset</em></span></a>
+<nav aria-label="Rubriques du dataset"><ul><li><a href="/telegram-gifts-dataset/fr/">Aperçu</a></li><li><a href="/telegram-gifts-dataset/fr/stars-prices/">Prix des Étoiles</a></li><li><a href="/telegram-gifts-dataset/fr/premium-prices/" aria-current="page">Prix de Premium</a></li><li><a href="/telegram-gifts-dataset/fr/gift-collections/">Collections de cadeaux</a></li><li><a href="/telegram-gifts-dataset/fr/limited-gifts/">Cadeaux limités</a></li></ul></nav>
+</div></header>
+<main><div class="wrap">
+<h1>Prix de Telegram Premium par pays</h1>
+<p class="lead">Ce que coûte Telegram Premium dans 15 pays de l'App Store, du moins cher au plus cher.</p>
+<p class="meta">Données mises à jour: <time datetime="2026-10-28">2026-10-28</time></p>
+
+<div class="answer"><p>Telegram Premium coûte <strong>4,99 $US par mois</strong> sur l'App Store américain. Le moins cher : Indonésie, Rp 59.000 (environ 3,26 $US). Le plus cher : Royaume-Uni, £4.99. En cadeau, 12 mois coûtent 28,99 $US sur Fragment ou 2 500 Étoiles.</p></div>
+<h2>Prix mensuel et annuel dans chaque pays</h2>
+<p>Prix tels qu'Apple les affiche dans chaque pays. La colonne en dollars est une estimation au taux de la banque centrale du jour du relevé ; un tiret signifie que l'offre ne figurait pas parmi les dix articles listés de ce pays.</p>
+<div class="table-wrap"><table><caption>Telegram Premium sur l&#39;App Store, du moins cher au plus cher, relevé le 28 octobre 2026</caption><thead><tr><th scope="col">Pays</th><th scope="col" class="num">Mensuel</th><th scope="col" class="num">Annuel</th><th scope="col" class="num">3 mois (cadeau)</th><th scope="col" class="num">Mensuel en USD</th></tr></thead><tbody><tr><td>Indonésie</td><td class="num">Rp 59.000</td><td class="num">Rp 449.000</td><td class="num">Rp 299.000</td><td class="num">≈ 3,26 $US</td></tr><tr><td>Inde</td><td class="num">₹319</td><td class="num">₹2,399</td><td class="num">—</td><td class="num">≈ 3,35 $US</td></tr><tr><td>Brésil</td><td class="num">R$ 19,90</td><td class="num">R$ 149,90</td><td class="num">—</td><td class="num">≈ 3,62 $US</td></tr><tr><td>Turquie</td><td class="num">₺189,99</td><td class="num">₺1.359,99</td><td class="num">—</td><td class="num">≈ 3,82 $US</td></tr><tr><td>Kazakhstan</td><td class="num">1 790 ₸</td><td class="num">13 490 ₸</td><td class="num">8 990 ₸</td><td class="num">≈ 3,97 $US</td></tr><tr><td>Mexique</td><td class="num">$74.00</td><td class="num">$559.00</td><td class="num">—</td><td class="num">≈ 3,97 $US</td></tr><tr><td>Ukraine</td><td class="num">3,99 USD</td><td class="num">29,99 USD</td><td class="num">17,99 USD</td><td class="num">≈ 3,99 $US</td></tr><tr><td>russie</td><td class="num">329 ₽</td><td class="num">2 390 ₽</td><td class="num">1 290 ₽</td><td class="num">≈ 4,09 $US</td></tr><tr><td>Pologne</td><td class="num">17,99 zł</td><td class="num">149,99 zł</td><td class="num">69,99 zł</td><td class="num">≈ 4,55 $US</td></tr><tr><td>États-Unis</td><td class="num">$4.99</td><td class="num">$35.99</td><td class="num">—</td><td class="num">≈ 4,99 $US</td></tr><tr><td>Espagne</td><td class="num">4,49 €</td><td class="num">33,99 €</td><td class="num">—</td><td class="num">≈ 5,02 $US</td></tr><tr><td>Italie</td><td class="num">4,49 €</td><td class="num">33,99 €</td><td class="num">—</td><td class="num">≈ 5,02 $US</td></tr><tr><td>Allemagne</td><td class="num">5,49 €</td><td class="num">39,99 €</td><td class="num">—</td><td class="num">≈ 6,14 $US</td></tr><tr><td>France</td><td class="num">5,49 €</td><td class="num">—</td><td class="num">—</td><td class="num">≈ 6,14 $US</td></tr><tr><td>Royaume-Uni</td><td class="num">£4.99</td><td class="num">—</td><td class="num">—</td><td class="num">≈ 6,66 $US</td></tr></tbody></table></div>
+<h2>Offrir Premium : Fragment et Étoiles</h2>
+<p>Premium peut s'acheter en cadeau sur Fragment ou s'envoyer avec des Étoiles dans Telegram. Les prix en Étoiles sont fixés par la Bot API de Telegram.</p>
+<div class="table-wrap"><table><caption>Prix de Premium en cadeau, relevés le 28 octobre 2026</caption><thead><tr><th scope="col" class="num">Mois</th><th scope="col" class="num">Fragment (USD)</th><th scope="col" class="num">Fragment (Gram)</th><th scope="col" class="num">Étoiles</th></tr></thead><tbody><tr><td class="num">3</td><td class="num">11,99 $US</td><td class="num">9,62 GRAM</td><td class="num">1 000 ⭐</td></tr><tr><td class="num">6</td><td class="num">15,99 $US</td><td class="num">12,84 GRAM</td><td class="num">1 500 ⭐</td></tr><tr><td class="num">12</td><td class="num">28,99 $US</td><td class="num">23,28 GRAM</td><td class="num">2 500 ⭐</td></tr></tbody></table></div>
+<h2>Télécharger</h2>
+<p><code>premium-app-store-prices</code> <a href="/telegram-gifts-dataset/data/premium-app-store-prices.csv" download>CSV</a> · <a href="/telegram-gifts-dataset/data/premium-app-store-prices.json" download>JSON</a><br><code>premium-gift-prices</code> <a href="/telegram-gifts-dataset/data/premium-gift-prices.csv" download>CSV</a> · <a href="/telegram-gifts-dataset/data/premium-gift-prices.json" download>JSON</a><br><code>fx-rates</code> <a href="/telegram-gifts-dataset/data/fx-rates.json" download>JSON</a></p><p class="meta">Le CSV est en UTF-8 avec une ligne d'en-tête. Le JSON est un tableau des mêmes lignes.</p>
+<h2>À lire ensuite sur Gift Club</h2>
+<ul><li><a href="https://giftclub.app/fr/blog/telegram-premium-price">Telegram Premium prix : 5,49 € par mois en France (2026)</a></li><li><a href="https://giftclub.app/fr/blog/get-telegram-premium-free">Telegram Premium gratuit : ce qui marche vraiment</a></li></ul>
+<h2>Questions</h2>
+<details><summary>Dans quel pays Telegram Premium est-il le moins cher ?</summary><p>Parmi les pays de ce dataset : Indonésie, à Rp 59.000 par mois (environ 3,26 $US).</p></details>
+<details><summary>Combien d&#39;Étoiles coûte un cadeau Premium ?</summary><p>1 000 Étoiles pour 3 mois et 2 500 pour 12 mois, fixées par Telegram.</p></details>
+<details><summary>Pourquoi n&#39;y a-t-il pas de colonne Google Play ?</summary><p>Google Play n'affiche les prix que dans l'appli, sur un appareil connecté : il n'existe donc aucune page publique à lire et à citer.</p></details>
+
+</div></main>
+<footer><div class="wrap">
+<p class="langs" aria-label="Langues"><a href="/telegram-gifts-dataset/premium-prices/" hreflang="en" lang="en">English</a><a href="/telegram-gifts-dataset/ru/premium-prices/" hreflang="ru" lang="ru">Русский</a><a href="/telegram-gifts-dataset/uk/premium-prices/" hreflang="uk" lang="uk">Українська</a><a href="/telegram-gifts-dataset/es/premium-prices/" hreflang="es" lang="es">Español</a><a href="/telegram-gifts-dataset/pl/premium-prices/" hreflang="pl" lang="pl">Polski</a><a href="/telegram-gifts-dataset/it/premium-prices/" hreflang="it" lang="it">Italiano</a><a href="/telegram-gifts-dataset/tr/premium-prices/" hreflang="tr" lang="tr">Türkçe</a><a href="/telegram-gifts-dataset/de/premium-prices/" hreflang="de" lang="de">Deutsch</a><a href="/telegram-gifts-dataset/fr/premium-prices/" hreflang="fr" lang="fr" aria-current="true">Français</a></p>
+<p>Un dataset ouvert de <a href="https://giftclub.app/fr/">Gift Club</a>, la Mini App Telegram avec coffres à cadeaux et jeux.</p>
+<p>Plus de Gift Club: <a href="/telegram-stars-calculator/fr/">Calculateur d&#39;Étoiles</a> · <a href="/provably-fair-verifier/fr/">Provably fair</a> · <a href="https://github.com/gift-club/telegram-gifts-dataset">Source sur GitHub</a></p>
+<p>Données sous licence <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> : libres de réutilisation, en citant Gift Club et en liant cette page.</p>
+</div></footer>
+</body>
+</html>

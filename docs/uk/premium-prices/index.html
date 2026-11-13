@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="uk">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Ціна Telegram Premium за країнами: дані App Store (CSV)</title>
+<meta name="description" content="Місячна й річна ціна Telegram Premium у 15 країнах App Store, а також ціни подарунків на Fragment і в зірках. CSV і JSON, з датою та джерелом.">
+<link rel="canonical" href="https://gift-club.github.io/telegram-gifts-dataset/uk/premium-prices/">
+<link rel="alternate" hreflang="en" href="https://gift-club.github.io/telegram-gifts-dataset/premium-prices/">
+<link rel="alternate" hreflang="ru" href="https://gift-club.github.io/telegram-gifts-dataset/ru/premium-prices/">
+<link rel="alternate" hreflang="uk" href="https://gift-club.github.io/telegram-gifts-dataset/uk/premium-prices/">
+<link rel="alternate" hreflang="es" href="https://gift-club.github.io/telegram-gifts-dataset/es/premium-prices/">
+<link rel="alternate" hreflang="pl" href="https://gift-club.github.io/telegram-gifts-dataset/pl/premium-prices/">
+<link rel="alternate" hreflang="it" href="https://gift-club.github.io/telegram-gifts-dataset/it/premium-prices/">
+<link rel="alternate" hreflang="tr" href="https://gift-club.github.io/telegram-gifts-dataset/tr/premium-prices/">
+<link rel="alternate" hreflang="de" href="https://gift-club.github.io/telegram-gifts-dataset/de/premium-prices/">
+<link rel="alternate" hreflang="fr" href="https://gift-club.github.io/telegram-gifts-dataset/fr/premium-prices/">
+<link rel="alternate" hreflang="x-default" href="https://gift-club.github.io/telegram-gifts-dataset/premium-prices/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Датасет подарунків і зірок Telegram">
+<meta property="og:title" content="Ціна Telegram Premium за країнами: дані App Store (CSV)">
+<meta property="og:description" content="Місячна й річна ціна Telegram Premium у 15 країнах App Store, а також ціни подарунків на Fragment і в зірках. CSV і JSON, з датою та джерелом.">
+<meta property="og:url" content="https://gift-club.github.io/telegram-gifts-dataset/uk/premium-prices/">
+<meta property="og:locale" content="uk_UA">
+<meta name="twitter:card" content="summary">
+<meta name="theme-color" content="#0d0b14">
+<link rel="icon" href="/telegram-gifts-dataset/favicon.ico" sizes="any">
+<link rel="icon" type="image/png" sizes="32x32" href="/telegram-gifts-dataset/favicon-32.png">
+<link rel="icon" type="image/png" sizes="192x192" href="/telegram-gifts-dataset/icon-192.png">
+<link rel="apple-touch-icon" href="/telegram-gifts-dataset/apple-touch-icon.png">
+<style>:root{color-scheme:dark;--bg:#0d0b14;--panel:#17141f;--line:#2a2535;--ink:#f3f0fa;--muted:#a59fb5;--accent:#ffcf4a;--link:#8ec5ff}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.6 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+a{color:var(--link)}
+a:hover{text-decoration-thickness:2px}
+.wrap{max-width:860px;margin:0 auto;padding:0 16px}
+header{border-bottom:1px solid var(--line)}
+header .wrap{display:flex;flex-wrap:wrap;gap:8px 16px;align-items:center;justify-content:space-between;padding-top:14px;padding-bottom:14px}
+.brand{display:inline-flex;align-items:center;gap:10px;font-weight:700;color:var(--ink);text-decoration:none}
+.brand img{display:block;width:32px;height:32px;border-radius:8px}
+.brand em{font-style:normal;color:var(--accent)}
+nav ul{display:flex;flex-wrap:wrap;gap:6px 14px;list-style:none;margin:0;padding:0;font-size:15px}
+nav a{color:var(--muted);text-decoration:none}
+nav a[aria-current=page]{color:var(--ink);font-weight:600}
+main{padding:28px 0 40px}
+h1{font-size:clamp(28px,5vw,40px);line-height:1.15;margin:0 0 12px}
+h2{font-size:24px;line-height:1.25;margin:36px 0 10px}
+h3{font-size:19px;margin:24px 0 8px}
+.lead{font-size:18px;color:var(--ink)}
+.meta{color:var(--muted);font-size:14px}
+.answer{background:var(--panel);border:1px solid var(--line);border-left:4px solid var(--accent);border-radius:10px;padding:14px 16px;margin:18px 0}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px;margin:16px 0}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:14px 16px}
+.card h3{margin:0 0 6px;font-size:17px}
+.card p{margin:0;color:var(--muted);font-size:15px}
+.table-wrap{overflow-x:auto;margin:12px 0;border:1px solid var(--line);border-radius:10px}
+table{border-collapse:collapse;width:100%;font-size:15px}
+th,td{padding:8px 10px;border-bottom:1px solid var(--line);text-align:left;white-space:nowrap}
+pre,code{overflow-wrap:anywhere}
+pre{white-space:pre}
+th{background:var(--panel);position:sticky;top:0}
+td.num,th.num{text-align:right;font-variant-numeric:tabular-nums}
+tr:last-child td{border-bottom:0}
+caption{caption-side:top;text-align:left;padding:8px 10px;color:var(--muted);font-size:14px}
+code,pre{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:14px}
+code{background:var(--panel);padding:1px 5px;border-radius:5px}
+pre{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:12px 14px;overflow-x:auto}
+pre code{background:none;padding:0}
+details{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:10px 14px;margin:8px 0}
+summary{cursor:pointer;font-weight:600}
+.langs{display:flex;flex-wrap:wrap;gap:4px 12px;font-size:14px;color:var(--muted)}
+.langs a{color:var(--muted)}
+.langs a[aria-current=true]{color:var(--ink);font-weight:600;text-decoration:none}
+footer{border-top:1px solid var(--line);padding:24px 0 40px;color:var(--muted);font-size:14px}
+footer p{margin:6px 0}
+iframe{max-width:100%}</style>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Dataset","@id":"https://gift-club.github.io/telegram-gifts-dataset/premium-prices/#dataset","name":"Telegram Premium prices by country","description":"Місячна й річна ціна Telegram Premium у 15 країнах App Store, а також ціни подарунків на Fragment і в зірках. CSV і JSON, з датою та джерелом.","url":"https://gift-club.github.io/telegram-gifts-dataset/uk/premium-prices/","inLanguage":"uk","sameAs":"https://github.com/gift-club/telegram-gifts-dataset","license":"https://creativecommons.org/licenses/by/4.0/","isAccessibleForFree":true,"creator":{"@type":"Organization","@id":"https://giftclub.app/#organization","name":"Gift Club","url":"https://giftclub.app/","sameAs":["https://github.com/gift-club","https://gift-club.github.io/"]},"publisher":{"@type":"Organization","@id":"https://giftclub.app/#organization","name":"Gift Club","url":"https://giftclub.app/","sameAs":["https://github.com/gift-club","https://gift-club.github.io/"]},"keywords":["ціна Telegram Premium","Telegram Premium за країнами","App Store","Fragment","CSV"],"dateModified":"2026-10-28","distribution":[{"@type":"DataDownload","name":"premium-app-store-prices.csv","encodingFormat":"text/csv","contentUrl":"https://gift-club.github.io/telegram-gifts-dataset/data/premium-app-store-prices.csv"},{"@type":"DataDownload","name":"premium-app-store-prices.json","encodingFormat":"application/json","contentUrl":"https://gift-club.github.io/telegram-gifts-dataset/data/premium-app-store-prices.json"},{"@type":"DataDownload","name":"premium-gift-prices.csv","encodingFormat":"text/csv","contentUrl":"https://gift-club.github.io/telegram-gifts-dataset/data/premium-gift-prices.csv"},{"@type":"DataDownload","name":"premium-gift-prices.json","encodingFormat":"application/json","contentUrl":"https://gift-club.github.io/telegram-gifts-dataset/data/premium-gift-prices.json"},{"@type":"DataDownload","name":"fx-rates.json","encodingFormat":"application/json","contentUrl":"https://gift-club.github.io/telegram-gifts-dataset/data/fx-rates.json"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Датасет подарунків і зірок Telegram","item":"https://gift-club.github.io/telegram-gifts-dataset/uk/"},{"@type":"ListItem","position":2,"name":"Ціни на Premium","item":"https://gift-club.github.io/telegram-gifts-dataset/uk/premium-prices/"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"У якій країні Telegram Premium найдешевший?","acceptedAnswer":{"@type":"Answer","text":"Серед країн датасету: Індонезія, Rp 59.000 на місяць (близько 3,26 USD)."}},{"@type":"Question","name":"Скільки зірок коштує подарунковий Premium?","acceptedAnswer":{"@type":"Answer","text":"1 000 зірок за 3 місяці та 2 500 за 12 місяців, ціни задає Telegram."}},{"@type":"Question","name":"Чому немає колонки Google Play?","acceptedAnswer":{"@type":"Answer","text":"Google Play показує ціни лише всередині застосунку, на пристрої з виконаним входом, тому публічної сторінки, яку можна прочитати й процитувати, немає."}}]}</script>
+</head>
+<body>
+<header><div class="wrap">
+<a class="brand" href="/telegram-gifts-dataset/uk/"><img src="/telegram-gifts-dataset/logo-64.png" width="32" height="32" alt=""><span>Gift Club <em>Датасет</em></span></a>
+<nav aria-label="Розділи датасету"><ul><li><a href="/telegram-gifts-dataset/uk/">Огляд</a></li><li><a href="/telegram-gifts-dataset/uk/stars-prices/">Ціни на зірки</a></li><li><a href="/telegram-gifts-dataset/uk/premium-prices/" aria-current="page">Ціни на Premium</a></li><li><a href="/telegram-gifts-dataset/uk/gift-collections/">Колекції подарунків</a></li><li><a href="/telegram-gifts-dataset/uk/limited-gifts/">Лімітовані подарунки</a></li></ul></nav>
+</div></header>
+<main><div class="wrap">
+<h1>Ціни на Telegram Premium за країнами</h1>
+<p class="lead">Скільки коштує Telegram Premium у 15 країнах App Store, від дешевих до дорогих.</p>
+<p class="meta">Дані оновлено: <time datetime="2026-10-28">2026-10-28</time></p>
+
+<div class="answer"><p>Telegram Premium коштує <strong>4,99 USD на місяць</strong> в американському App Store. Найдешевше: Індонезія, Rp 59.000 (близько 3,26 USD). Найдорожче: Велика Британія, £4.99. У подарунок 12 місяців коштують 28,99 USD на Fragment або 2 500 зірок.</p></div>
+<h2>Місячна й річна ціна в кожній країні</h2>
+<p>Ціни в тому вигляді, як їх друкує Apple в кожній країні. Колонка в доларах: оцінка за курсом центрального банку на день заміру; риска означає, що тарифу не було серед десяти позицій цієї країни.</p>
+<div class="table-wrap"><table><caption>Telegram Premium в App Store, від дешевих до дорогих, замір: 28 жовтня 2026 р.</caption><thead><tr><th scope="col">Країна</th><th scope="col" class="num">На місяць</th><th scope="col" class="num">На рік</th><th scope="col" class="num">3 місяці (подарунок)</th><th scope="col" class="num">На місяць у USD</th></tr></thead><tbody><tr><td>Індонезія</td><td class="num">Rp 59.000</td><td class="num">Rp 449.000</td><td class="num">Rp 299.000</td><td class="num">≈ 3,26 USD</td></tr><tr><td>Індія</td><td class="num">₹319</td><td class="num">₹2,399</td><td class="num">—</td><td class="num">≈ 3,35 USD</td></tr><tr><td>Бразилія</td><td class="num">R$ 19,90</td><td class="num">R$ 149,90</td><td class="num">—</td><td class="num">≈ 3,62 USD</td></tr><tr><td>Туреччина</td><td class="num">₺189,99</td><td class="num">₺1.359,99</td><td class="num">—</td><td class="num">≈ 3,82 USD</td></tr><tr><td>Казахстан</td><td class="num">1 790 ₸</td><td class="num">13 490 ₸</td><td class="num">8 990 ₸</td><td class="num">≈ 3,97 USD</td></tr><tr><td>Мексика</td><td class="num">$74.00</td><td class="num">$559.00</td><td class="num">—</td><td class="num">≈ 3,97 USD</td></tr><tr><td>Україна</td><td class="num">3,99 USD</td><td class="num">29,99 USD</td><td class="num">17,99 USD</td><td class="num">≈ 3,99 USD</td></tr><tr><td>росія</td><td class="num">329 ₽</td><td class="num">2 390 ₽</td><td class="num">1 290 ₽</td><td class="num">≈ 4,09 USD</td></tr><tr><td>Польща</td><td class="num">17,99 zł</td><td class="num">149,99 zł</td><td class="num">69,99 zł</td><td class="num">≈ 4,55 USD</td></tr><tr><td>Сполучені Штати</td><td class="num">$4.99</td><td class="num">$35.99</td><td class="num">—</td><td class="num">≈ 4,99 USD</td></tr><tr><td>Іспанія</td><td class="num">4,49 €</td><td class="num">33,99 €</td><td class="num">—</td><td class="num">≈ 5,02 USD</td></tr><tr><td>Італія</td><td class="num">4,49 €</td><td class="num">33,99 €</td><td class="num">—</td><td class="num">≈ 5,02 USD</td></tr><tr><td>Німеччина</td><td class="num">5,49 €</td><td class="num">39,99 €</td><td class="num">—</td><td class="num">≈ 6,14 USD</td></tr><tr><td>Франція</td><td class="num">5,49 €</td><td class="num">—</td><td class="num">—</td><td class="num">≈ 6,14 USD</td></tr><tr><td>Велика Британія</td><td class="num">£4.99</td><td class="num">—</td><td class="num">—</td><td class="num">≈ 6,66 USD</td></tr></tbody></table></div>
+<h2>Premium у подарунок: Fragment і зірки</h2>
+<p>Premium можна купити в подарунок на Fragment або надіслати за зірки всередині Telegram. Ціни в зірках задає Bot API Telegram.</p>
+<div class="table-wrap"><table><caption>Ціни подарункового Premium, замір: 28 жовтня 2026 р.</caption><thead><tr><th scope="col" class="num">Місяців</th><th scope="col" class="num">Fragment (USD)</th><th scope="col" class="num">Fragment (Gram)</th><th scope="col" class="num">Зірки</th></tr></thead><tbody><tr><td class="num">3</td><td class="num">11,99 USD</td><td class="num">9,62 GRAM</td><td class="num">1 000 ⭐</td></tr><tr><td class="num">6</td><td class="num">15,99 USD</td><td class="num">12,84 GRAM</td><td class="num">1 500 ⭐</td></tr><tr><td class="num">12</td><td class="num">28,99 USD</td><td class="num">23,28 GRAM</td><td class="num">2 500 ⭐</td></tr></tbody></table></div>
+<h2>Завантажити</h2>
+<p><code>premium-app-store-prices</code> <a href="/telegram-gifts-dataset/data/premium-app-store-prices.csv" download>CSV</a> · <a href="/telegram-gifts-dataset/data/premium-app-store-prices.json" download>JSON</a><br><code>premium-gift-prices</code> <a href="/telegram-gifts-dataset/data/premium-gift-prices.csv" download>CSV</a> · <a href="/telegram-gifts-dataset/data/premium-gift-prices.json" download>JSON</a><br><code>fx-rates</code> <a href="/telegram-gifts-dataset/data/fx-rates.json" download>JSON</a></p><p class="meta">CSV у кодуванні UTF-8 з рядком заголовків. JSON: масив тих самих рядків.</p>
+<h2>Читай далі на Gift Club</h2>
+<ul><li><a href="https://giftclub.app/uk/blog/telegram-premium-price">Ціна Telegram Premium у 2026: 3,99 $ на місяць і де дешевше</a></li><li><a href="https://giftclub.app/uk/blog/get-telegram-premium-free">Телеграм Преміум безкоштовно: 3 чесні шляхи і скретч-картка</a></li></ul>
+<h2>Запитання</h2>
+<details><summary>У якій країні Telegram Premium найдешевший?</summary><p>Серед країн датасету: Індонезія, Rp 59.000 на місяць (близько 3,26 USD).</p></details>
+<details><summary>Скільки зірок коштує подарунковий Premium?</summary><p>1 000 зірок за 3 місяці та 2 500 за 12 місяців, ціни задає Telegram.</p></details>
+<details><summary>Чому немає колонки Google Play?</summary><p>Google Play показує ціни лише всередині застосунку, на пристрої з виконаним входом, тому публічної сторінки, яку можна прочитати й процитувати, немає.</p></details>
+
+</div></main>
+<footer><div class="wrap">
+<p class="langs" aria-label="Мови"><a href="/telegram-gifts-dataset/premium-prices/" hreflang="en" lang="en">English</a><a href="/telegram-gifts-dataset/ru/premium-prices/" hreflang="ru" lang="ru">Русский</a><a href="/telegram-gifts-dataset/uk/premium-prices/" hreflang="uk" lang="uk" aria-current="true">Українська</a><a href="/telegram-gifts-dataset/es/premium-prices/" hreflang="es" lang="es">Español</a><a href="/telegram-gifts-dataset/pl/premium-prices/" hreflang="pl" lang="pl">Polski</a><a href="/telegram-gifts-dataset/it/premium-prices/" hreflang="it" lang="it">Italiano</a><a href="/telegram-gifts-dataset/tr/premium-prices/" hreflang="tr" lang="tr">Türkçe</a><a href="/telegram-gifts-dataset/de/premium-prices/" hreflang="de" lang="de">Deutsch</a><a href="/telegram-gifts-dataset/fr/premium-prices/" hreflang="fr" lang="fr">Français</a></p>
+<p>Відкритий датасет від <a href="https://giftclub.app/uk/">Gift Club</a>, міні-застосунку Telegram з кейсами та іграми.</p>
+<p>Ще від Gift Club: <a href="/telegram-stars-calculator/uk/">Калькулятор зірок</a> · <a href="/provably-fair-verifier/uk/">Доказово чесно</a> · <a href="https://github.com/gift-club/telegram-gifts-dataset">Вихідний код на GitHub</a></p>
+<p>Дані під ліцензією <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>: можна вільно використовувати, вказавши Gift Club і посилання на цю сторінку.</p>
+</div></footer>
+</body>
+</html>

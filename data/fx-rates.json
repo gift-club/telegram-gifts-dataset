@@ -1,0 +1,33 @@
+{
+  "note": "Only the *_usd_estimate columns use these. Every price column is the store's own figure in its own currency.",
+  "premium": {
+    "checked": "2026-10-28",
+    "sources": [
+      "https://www.cbr.ru/scripts/XML_daily.asp?date_req=28/10/2026",
+      "https://www.ecb.europa.eu/stats/eurofxref/"
+    ]
+  },
+  "stars": {
+    "checked": "2026-10-15",
+    "local_per_usd": {
+      "USD": 1,
+      "RUB": 83.9497,
+      "IDR": 17930.001196,
+      "BRL": 5.057013,
+      "MXN": 18.522127,
+      "EUR": 0.89222,
+      "INR": 95.057816,
+      "DKK": 6.681499,
+      "KZT": 448.449252,
+      "NOK": 9.535697,
+      "PLN": 3.904201,
+      "SAR": 3.749998,
+      "SEK": 9.983731,
+      "TRY": 49.323858
+    },
+    "sources": [
+      "https://www.cbr.ru/scripts/XML_daily.asp?date_req=15/10/2026",
+      "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml"
+    ]
+  }
+}
